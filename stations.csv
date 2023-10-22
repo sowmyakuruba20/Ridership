@@ -1,0 +1,2501 @@
+﻿origin_id,destination_id,origin,destination,origin_station,destination_station
+0,1,SSAN,SBRN,South San Francisco,San Bruno
+0,0,SSAN,SSAN,South San Francisco,South San Francisco
+0,2,SSAN,SFIA,South San Francisco,San Francisco International Airport
+0,3,SSAN,MLBR,South San Francisco,Millbrae
+0,4,SSAN,WDUB,South San Francisco,West Dublin/Pleasanton
+0,5,SSAN,RICH,South San Francisco,Richmond
+0,6,SSAN,DELN,South San Francisco,Del Norte
+0,7,SSAN,PLZA,South San Francisco,El Cerrito Plaza
+0,8,SSAN,NBRK,South San Francisco,North Berkeley
+0,9,SSAN,DBRK,South San Francisco,Downtown Berkeley
+0,10,SSAN,ASHB,South San Francisco,Ashby
+0,11,SSAN,MCAR,South San Francisco,MacArthur
+0,12,SSAN,19TH,South San Francisco,19th Street Oakland
+0,13,SSAN,12TH,South San Francisco,12th Street Oakland
+0,14,SSAN,LAKE,South San Francisco,Lake Merritt
+0,15,SSAN,FTVL,South San Francisco,Fruitvale
+0,16,SSAN,COLS,South San Francisco,Coliseum
+0,17,SSAN,SANL,South San Francisco,San Leandro
+0,18,SSAN,BAYF,South San Francisco,Bay Fair
+0,19,SSAN,HAYW,South San Francisco,Hayward
+0,20,SSAN,SHAY,South San Francisco,South Hayward
+0,21,SSAN,UCTY,South San Francisco,Union City
+0,22,SSAN,FRMT,South San Francisco,Fremont
+0,23,SSAN,CAST,South San Francisco,Castro Valley
+0,24,SSAN,DUBL,South San Francisco,Dublin/Pleasanton
+0,25,SSAN,PITT,South San Francisco,Pittsburg/Bay Point
+0,26,SSAN,NCON,South San Francisco,North Concord/Martinez
+0,27,SSAN,COLM,South San Francisco,Colma
+0,28,SSAN,CONC,South San Francisco,Concord
+0,29,SSAN,PHIL,South San Francisco,Pleasant Hill
+0,30,SSAN,WCRK,South San Francisco,Walnut Creek
+0,31,SSAN,LAFY,South San Francisco,Lafayette
+0,32,SSAN,ORIN,South San Francisco,Orinda
+0,33,SSAN,ROCK,South San Francisco,Rockridge
+0,34,SSAN,WOAK,South San Francisco,West Oakland
+0,35,SSAN,EMBR,South San Francisco,Embarcadero
+0,36,SSAN,MONT,South San Francisco,Montgomery Street
+0,37,SSAN,POWL,South San Francisco,Powell Street
+0,38,SSAN,CIVC,South San Francisco,Civic Center
+0,39,SSAN,16TH,South San Francisco,16th Street Mission
+0,40,SSAN,24TH,South San Francisco,24th Street Mission
+0,41,SSAN,GLEN,South San Francisco,Glen Park
+0,42,SSAN,BALB,South San Francisco,Balboa Park
+0,43,SSAN,DALY,South San Francisco,Daly City
+0,44,SSAN,OAKL,South San Francisco,Oakland City Center/12th St
+0,45,SSAN,WARM,South San Francisco,Warm Springs/South Fremont
+0,46,SSAN,MLPT,South San Francisco,Milpitas
+0,47,SSAN,BERY,South San Francisco,Berryessa/North San Jose
+0,48,SSAN,PCTR,South San Francisco,Pittsburg Center
+0,49,SSAN,ANTC,South San Francisco,Antioch
+1,0,SBRN,SSAN,San Bruno,South San Francisco
+1,1,SBRN,SBRN,San Bruno,San Bruno
+1,2,SBRN,SFIA,San Bruno,San Francisco International Airport
+1,3,SBRN,MLBR,San Bruno,Millbrae
+1,4,SBRN,WDUB,San Bruno,West Dublin/Pleasanton
+1,5,SBRN,RICH,San Bruno,Richmond
+1,6,SBRN,DELN,San Bruno,Del Norte
+1,7,SBRN,PLZA,San Bruno,El Cerrito Plaza
+1,8,SBRN,NBRK,San Bruno,North Berkeley
+1,9,SBRN,DBRK,San Bruno,Downtown Berkeley
+1,10,SBRN,ASHB,San Bruno,Ashby
+1,11,SBRN,MCAR,San Bruno,MacArthur
+1,12,SBRN,19TH,San Bruno,19th Street Oakland
+1,13,SBRN,12TH,San Bruno,12th Street Oakland
+1,14,SBRN,LAKE,San Bruno,Lake Merritt
+1,15,SBRN,FTVL,San Bruno,Fruitvale
+1,16,SBRN,COLS,San Bruno,Coliseum
+1,17,SBRN,SANL,San Bruno,San Leandro
+1,18,SBRN,BAYF,San Bruno,Bay Fair
+1,19,SBRN,HAYW,San Bruno,Hayward
+1,20,SBRN,SHAY,San Bruno,South Hayward
+1,21,SBRN,UCTY,San Bruno,Union City
+1,22,SBRN,FRMT,San Bruno,Fremont
+1,23,SBRN,CAST,San Bruno,Castro Valley
+1,24,SBRN,DUBL,San Bruno,Dublin/Pleasanton
+1,25,SBRN,PITT,San Bruno,Pittsburg/Bay Point
+1,26,SBRN,NCON,San Bruno,North Concord/Martinez
+1,27,SBRN,COLM,San Bruno,Colma
+1,28,SBRN,CONC,San Bruno,Concord
+1,29,SBRN,PHIL,San Bruno,Pleasant Hill
+1,30,SBRN,WCRK,San Bruno,Walnut Creek
+1,31,SBRN,LAFY,San Bruno,Lafayette
+1,32,SBRN,ORIN,San Bruno,Orinda
+1,33,SBRN,ROCK,San Bruno,Rockridge
+1,34,SBRN,WOAK,San Bruno,West Oakland
+1,35,SBRN,EMBR,San Bruno,Embarcadero
+1,36,SBRN,MONT,San Bruno,Montgomery Street
+1,37,SBRN,POWL,San Bruno,Powell Street
+1,38,SBRN,CIVC,San Bruno,Civic Center
+1,39,SBRN,16TH,San Bruno,16th Street Mission
+1,40,SBRN,24TH,San Bruno,24th Street Mission
+1,41,SBRN,GLEN,San Bruno,Glen Park
+1,42,SBRN,BALB,San Bruno,Balboa Park
+1,43,SBRN,DALY,San Bruno,Daly City
+1,44,SBRN,OAKL,San Bruno,Oakland City Center/12th St
+1,45,SBRN,WARM,San Bruno,Warm Springs/South Fremont
+1,46,SBRN,MLPT,San Bruno,Milpitas
+1,47,SBRN,BERY,San Bruno,Berryessa/North San Jose
+1,48,SBRN,PCTR,San Bruno,Pittsburg Center
+1,49,SBRN,ANTC,San Bruno,Antioch
+2,0,SFIA,SSAN,San Francisco International Airport,South San Francisco
+2,1,SFIA,SBRN,San Francisco International Airport,San Bruno
+2,2,SFIA,SFIA,San Francisco International Airport,San Francisco International Airport
+2,3,SFIA,MLBR,San Francisco International Airport,Millbrae
+2,4,SFIA,WDUB,San Francisco International Airport,West Dublin/Pleasanton
+2,5,SFIA,RICH,San Francisco International Airport,Richmond
+2,6,SFIA,DELN,San Francisco International Airport,Del Norte
+2,7,SFIA,PLZA,San Francisco International Airport,El Cerrito Plaza
+2,8,SFIA,NBRK,San Francisco International Airport,North Berkeley
+2,9,SFIA,DBRK,San Francisco International Airport,Downtown Berkeley
+2,10,SFIA,ASHB,San Francisco International Airport,Ashby
+2,11,SFIA,MCAR,San Francisco International Airport,MacArthur
+2,12,SFIA,19TH,San Francisco International Airport,19th Street Oakland
+2,13,SFIA,12TH,San Francisco International Airport,12th Street Oakland
+2,14,SFIA,LAKE,San Francisco International Airport,Lake Merritt
+2,15,SFIA,FTVL,San Francisco International Airport,Fruitvale
+2,16,SFIA,COLS,San Francisco International Airport,Coliseum
+2,17,SFIA,SANL,San Francisco International Airport,San Leandro
+2,18,SFIA,BAYF,San Francisco International Airport,Bay Fair
+2,19,SFIA,HAYW,San Francisco International Airport,Hayward
+2,20,SFIA,SHAY,San Francisco International Airport,South Hayward
+2,21,SFIA,UCTY,San Francisco International Airport,Union City
+2,22,SFIA,FRMT,San Francisco International Airport,Fremont
+2,23,SFIA,CAST,San Francisco International Airport,Castro Valley
+2,24,SFIA,DUBL,San Francisco International Airport,Dublin/Pleasanton
+2,25,SFIA,PITT,San Francisco International Airport,Pittsburg/Bay Point
+2,26,SFIA,NCON,San Francisco International Airport,North Concord/Martinez
+2,27,SFIA,COLM,San Francisco International Airport,Colma
+2,28,SFIA,CONC,San Francisco International Airport,Concord
+2,29,SFIA,PHIL,San Francisco International Airport,Pleasant Hill
+2,30,SFIA,WCRK,San Francisco International Airport,Walnut Creek
+2,31,SFIA,LAFY,San Francisco International Airport,Lafayette
+2,32,SFIA,ORIN,San Francisco International Airport,Orinda
+2,33,SFIA,ROCK,San Francisco International Airport,Rockridge
+2,34,SFIA,WOAK,San Francisco International Airport,West Oakland
+2,35,SFIA,EMBR,San Francisco International Airport,Embarcadero
+2,36,SFIA,MONT,San Francisco International Airport,Montgomery Street
+2,37,SFIA,POWL,San Francisco International Airport,Powell Street
+2,38,SFIA,CIVC,San Francisco International Airport,Civic Center
+2,39,SFIA,16TH,San Francisco International Airport,16th Street Mission
+2,40,SFIA,24TH,San Francisco International Airport,24th Street Mission
+2,41,SFIA,GLEN,San Francisco International Airport,Glen Park
+2,42,SFIA,BALB,San Francisco International Airport,Balboa Park
+2,43,SFIA,DALY,San Francisco International Airport,Daly City
+2,44,SFIA,OAKL,San Francisco International Airport,Oakland City Center/12th St
+2,45,SFIA,WARM,San Francisco International Airport,Warm Springs/South Fremont
+2,46,SFIA,MLPT,San Francisco International Airport,Milpitas
+2,47,SFIA,BERY,San Francisco International Airport,Berryessa/North San Jose
+2,48,SFIA,PCTR,San Francisco International Airport,Pittsburg Center
+2,49,SFIA,ANTC,San Francisco International Airport,Antioch
+3,0,MLBR,SSAN,Millbrae,South San Francisco
+3,1,MLBR,SBRN,Millbrae,San Bruno
+3,2,MLBR,SFIA,Millbrae,San Francisco International Airport
+3,3,MLBR,MLBR,Millbrae,Millbrae
+3,4,MLBR,WDUB,Millbrae,West Dublin/Pleasanton
+3,5,MLBR,RICH,Millbrae,Richmond
+3,6,MLBR,DELN,Millbrae,Del Norte
+3,7,MLBR,PLZA,Millbrae,El Cerrito Plaza
+3,8,MLBR,NBRK,Millbrae,North Berkeley
+3,9,MLBR,DBRK,Millbrae,Downtown Berkeley
+3,10,MLBR,ASHB,Millbrae,Ashby
+3,11,MLBR,MCAR,Millbrae,MacArthur
+3,12,MLBR,19TH,Millbrae,19th Street Oakland
+3,13,MLBR,12TH,Millbrae,12th Street Oakland
+3,14,MLBR,LAKE,Millbrae,Lake Merritt
+3,15,MLBR,FTVL,Millbrae,Fruitvale
+3,16,MLBR,COLS,Millbrae,Coliseum
+3,17,MLBR,SANL,Millbrae,San Leandro
+3,18,MLBR,BAYF,Millbrae,Bay Fair
+3,19,MLBR,HAYW,Millbrae,Hayward
+3,20,MLBR,SHAY,Millbrae,South Hayward
+3,21,MLBR,UCTY,Millbrae,Union City
+3,22,MLBR,FRMT,Millbrae,Fremont
+3,23,MLBR,CAST,Millbrae,Castro Valley
+3,24,MLBR,DUBL,Millbrae,Dublin/Pleasanton
+3,25,MLBR,PITT,Millbrae,Pittsburg/Bay Point
+3,26,MLBR,NCON,Millbrae,North Concord/Martinez
+3,27,MLBR,COLM,Millbrae,Colma
+3,28,MLBR,CONC,Millbrae,Concord
+3,29,MLBR,PHIL,Millbrae,Pleasant Hill
+3,30,MLBR,WCRK,Millbrae,Walnut Creek
+3,31,MLBR,LAFY,Millbrae,Lafayette
+3,32,MLBR,ORIN,Millbrae,Orinda
+3,33,MLBR,ROCK,Millbrae,Rockridge
+3,34,MLBR,WOAK,Millbrae,West Oakland
+3,35,MLBR,EMBR,Millbrae,Embarcadero
+3,36,MLBR,MONT,Millbrae,Montgomery Street
+3,37,MLBR,POWL,Millbrae,Powell Street
+3,38,MLBR,CIVC,Millbrae,Civic Center
+3,39,MLBR,16TH,Millbrae,16th Street Mission
+3,40,MLBR,24TH,Millbrae,24th Street Mission
+3,41,MLBR,GLEN,Millbrae,Glen Park
+3,42,MLBR,BALB,Millbrae,Balboa Park
+3,43,MLBR,DALY,Millbrae,Daly City
+3,44,MLBR,OAKL,Millbrae,Oakland City Center/12th St
+3,45,MLBR,WARM,Millbrae,Warm Springs/South Fremont
+3,46,MLBR,MLPT,Millbrae,Milpitas
+3,47,MLBR,BERY,Millbrae,Berryessa/North San Jose
+3,48,MLBR,PCTR,Millbrae,Pittsburg Center
+3,49,MLBR,ANTC,Millbrae,Antioch
+4,0,WDUB,SSAN,West Dublin/Pleasanton,South San Francisco
+4,1,WDUB,SBRN,West Dublin/Pleasanton,San Bruno
+4,2,WDUB,SFIA,West Dublin/Pleasanton,San Francisco International Airport
+4,3,WDUB,MLBR,West Dublin/Pleasanton,Millbrae
+4,4,WDUB,WDUB,West Dublin/Pleasanton,West Dublin/Pleasanton
+4,5,WDUB,RICH,West Dublin/Pleasanton,Richmond
+4,6,WDUB,DELN,West Dublin/Pleasanton,Del Norte
+4,7,WDUB,PLZA,West Dublin/Pleasanton,El Cerrito Plaza
+4,8,WDUB,NBRK,West Dublin/Pleasanton,North Berkeley
+4,9,WDUB,DBRK,West Dublin/Pleasanton,Downtown Berkeley
+4,10,WDUB,ASHB,West Dublin/Pleasanton,Ashby
+4,11,WDUB,MCAR,West Dublin/Pleasanton,MacArthur
+4,12,WDUB,19TH,West Dublin/Pleasanton,19th Street Oakland
+4,13,WDUB,12TH,West Dublin/Pleasanton,12th Street Oakland
+4,14,WDUB,LAKE,West Dublin/Pleasanton,Lake Merritt
+4,15,WDUB,FTVL,West Dublin/Pleasanton,Fruitvale
+4,16,WDUB,COLS,West Dublin/Pleasanton,Coliseum
+4,17,WDUB,SANL,West Dublin/Pleasanton,San Leandro
+4,18,WDUB,BAYF,West Dublin/Pleasanton,Bay Fair
+4,19,WDUB,HAYW,West Dublin/Pleasanton,Hayward
+4,20,WDUB,SHAY,West Dublin/Pleasanton,South Hayward
+4,21,WDUB,UCTY,West Dublin/Pleasanton,Union City
+4,22,WDUB,FRMT,West Dublin/Pleasanton,Fremont
+4,23,WDUB,CAST,West Dublin/Pleasanton,Castro Valley
+4,24,WDUB,DUBL,West Dublin/Pleasanton,Dublin/Pleasanton
+4,25,WDUB,PITT,West Dublin/Pleasanton,Pittsburg/Bay Point
+4,26,WDUB,NCON,West Dublin/Pleasanton,North Concord/Martinez
+4,27,WDUB,COLM,West Dublin/Pleasanton,Colma
+4,28,WDUB,CONC,West Dublin/Pleasanton,Concord
+4,29,WDUB,PHIL,West Dublin/Pleasanton,Pleasant Hill
+4,30,WDUB,WCRK,West Dublin/Pleasanton,Walnut Creek
+4,31,WDUB,LAFY,West Dublin/Pleasanton,Lafayette
+4,32,WDUB,ORIN,West Dublin/Pleasanton,Orinda
+4,33,WDUB,ROCK,West Dublin/Pleasanton,Rockridge
+4,34,WDUB,WOAK,West Dublin/Pleasanton,West Oakland
+4,35,WDUB,EMBR,West Dublin/Pleasanton,Embarcadero
+4,36,WDUB,MONT,West Dublin/Pleasanton,Montgomery Street
+4,37,WDUB,POWL,West Dublin/Pleasanton,Powell Street
+4,38,WDUB,CIVC,West Dublin/Pleasanton,Civic Center
+4,39,WDUB,16TH,West Dublin/Pleasanton,16th Street Mission
+4,40,WDUB,24TH,West Dublin/Pleasanton,24th Street Mission
+4,41,WDUB,GLEN,West Dublin/Pleasanton,Glen Park
+4,42,WDUB,BALB,West Dublin/Pleasanton,Balboa Park
+4,43,WDUB,DALY,West Dublin/Pleasanton,Daly City
+4,44,WDUB,OAKL,West Dublin/Pleasanton,Oakland City Center/12th St
+4,45,WDUB,WARM,West Dublin/Pleasanton,Warm Springs/South Fremont
+4,46,WDUB,MLPT,West Dublin/Pleasanton,Milpitas
+4,47,WDUB,BERY,West Dublin/Pleasanton,Berryessa/North San Jose
+4,48,WDUB,PCTR,West Dublin/Pleasanton,Pittsburg Center
+4,49,WDUB,ANTC,West Dublin/Pleasanton,Antioch
+5,0,RICH,SSAN,Richmond,South San Francisco
+5,1,RICH,SBRN,Richmond,San Bruno
+5,2,RICH,SFIA,Richmond,San Francisco International Airport
+5,3,RICH,MLBR,Richmond,Millbrae
+5,4,RICH,WDUB,Richmond,West Dublin/Pleasanton
+5,5,RICH,RICH,Richmond,Richmond
+5,6,RICH,DELN,Richmond,Del Norte
+5,7,RICH,PLZA,Richmond,El Cerrito Plaza
+5,8,RICH,NBRK,Richmond,North Berkeley
+5,9,RICH,DBRK,Richmond,Downtown Berkeley
+5,10,RICH,ASHB,Richmond,Ashby
+5,11,RICH,MCAR,Richmond,MacArthur
+5,12,RICH,19TH,Richmond,19th Street Oakland
+5,13,RICH,12TH,Richmond,12th Street Oakland
+5,14,RICH,LAKE,Richmond,Lake Merritt
+5,15,RICH,FTVL,Richmond,Fruitvale
+5,16,RICH,COLS,Richmond,Coliseum
+5,17,RICH,SANL,Richmond,San Leandro
+5,18,RICH,BAYF,Richmond,Bay Fair
+5,19,RICH,HAYW,Richmond,Hayward
+5,20,RICH,SHAY,Richmond,South Hayward
+5,21,RICH,UCTY,Richmond,Union City
+5,22,RICH,FRMT,Richmond,Fremont
+5,23,RICH,CAST,Richmond,Castro Valley
+5,24,RICH,DUBL,Richmond,Dublin/Pleasanton
+5,25,RICH,PITT,Richmond,Pittsburg/Bay Point
+5,26,RICH,NCON,Richmond,North Concord/Martinez
+5,27,RICH,COLM,Richmond,Colma
+5,28,RICH,CONC,Richmond,Concord
+5,29,RICH,PHIL,Richmond,Pleasant Hill
+5,30,RICH,WCRK,Richmond,Walnut Creek
+5,31,RICH,LAFY,Richmond,Lafayette
+5,32,RICH,ORIN,Richmond,Orinda
+5,33,RICH,ROCK,Richmond,Rockridge
+5,34,RICH,WOAK,Richmond,West Oakland
+5,35,RICH,EMBR,Richmond,Embarcadero
+5,36,RICH,MONT,Richmond,Montgomery Street
+5,37,RICH,POWL,Richmond,Powell Street
+5,38,RICH,CIVC,Richmond,Civic Center
+5,39,RICH,16TH,Richmond,16th Street Mission
+5,40,RICH,24TH,Richmond,24th Street Mission
+5,41,RICH,GLEN,Richmond,Glen Park
+5,42,RICH,BALB,Richmond,Balboa Park
+5,43,RICH,DALY,Richmond,Daly City
+5,44,RICH,OAKL,Richmond,Oakland City Center/12th St
+5,45,RICH,WARM,Richmond,Warm Springs/South Fremont
+5,46,RICH,MLPT,Richmond,Milpitas
+5,47,RICH,BERY,Richmond,Berryessa/North San Jose
+5,48,RICH,PCTR,Richmond,Pittsburg Center
+5,49,RICH,ANTC,Richmond,Antioch
+6,0,DELN,SSAN,Del Norte,South San Francisco
+6,1,DELN,SBRN,Del Norte,San Bruno
+6,2,DELN,SFIA,Del Norte,San Francisco International Airport
+6,3,DELN,MLBR,Del Norte,Millbrae
+6,4,DELN,WDUB,Del Norte,West Dublin/Pleasanton
+6,5,DELN,RICH,Del Norte,Richmond
+6,6,DELN,DELN,Del Norte,Del Norte
+6,7,DELN,PLZA,Del Norte,El Cerrito Plaza
+6,8,DELN,NBRK,Del Norte,North Berkeley
+6,9,DELN,DBRK,Del Norte,Downtown Berkeley
+6,10,DELN,ASHB,Del Norte,Ashby
+6,11,DELN,MCAR,Del Norte,MacArthur
+6,12,DELN,19TH,Del Norte,19th Street Oakland
+6,13,DELN,12TH,Del Norte,12th Street Oakland
+6,14,DELN,LAKE,Del Norte,Lake Merritt
+6,15,DELN,FTVL,Del Norte,Fruitvale
+6,16,DELN,COLS,Del Norte,Coliseum
+6,17,DELN,SANL,Del Norte,San Leandro
+6,18,DELN,BAYF,Del Norte,Bay Fair
+6,19,DELN,HAYW,Del Norte,Hayward
+6,20,DELN,SHAY,Del Norte,South Hayward
+6,21,DELN,UCTY,Del Norte,Union City
+6,22,DELN,FRMT,Del Norte,Fremont
+6,23,DELN,CAST,Del Norte,Castro Valley
+6,24,DELN,DUBL,Del Norte,Dublin/Pleasanton
+6,25,DELN,PITT,Del Norte,Pittsburg/Bay Point
+6,26,DELN,NCON,Del Norte,North Concord/Martinez
+6,27,DELN,COLM,Del Norte,Colma
+6,28,DELN,CONC,Del Norte,Concord
+6,29,DELN,PHIL,Del Norte,Pleasant Hill
+6,30,DELN,WCRK,Del Norte,Walnut Creek
+6,31,DELN,LAFY,Del Norte,Lafayette
+6,32,DELN,ORIN,Del Norte,Orinda
+6,33,DELN,ROCK,Del Norte,Rockridge
+6,34,DELN,WOAK,Del Norte,West Oakland
+6,35,DELN,EMBR,Del Norte,Embarcadero
+6,36,DELN,MONT,Del Norte,Montgomery Street
+6,37,DELN,POWL,Del Norte,Powell Street
+6,38,DELN,CIVC,Del Norte,Civic Center
+6,39,DELN,16TH,Del Norte,16th Street Mission
+6,40,DELN,24TH,Del Norte,24th Street Mission
+6,41,DELN,GLEN,Del Norte,Glen Park
+6,42,DELN,BALB,Del Norte,Balboa Park
+6,43,DELN,DALY,Del Norte,Daly City
+6,44,DELN,OAKL,Del Norte,Oakland City Center/12th St
+6,45,DELN,WARM,Del Norte,Warm Springs/South Fremont
+6,46,DELN,MLPT,Del Norte,Milpitas
+6,47,DELN,BERY,Del Norte,Berryessa/North San Jose
+6,48,DELN,PCTR,Del Norte,Pittsburg Center
+6,49,DELN,ANTC,Del Norte,Antioch
+7,0,PLZA,SSAN,El Cerrito Plaza,South San Francisco
+7,1,PLZA,SBRN,El Cerrito Plaza,San Bruno
+7,2,PLZA,SFIA,El Cerrito Plaza,San Francisco International Airport
+7,3,PLZA,MLBR,El Cerrito Plaza,Millbrae
+7,4,PLZA,WDUB,El Cerrito Plaza,West Dublin/Pleasanton
+7,5,PLZA,RICH,El Cerrito Plaza,Richmond
+7,6,PLZA,DELN,El Cerrito Plaza,Del Norte
+7,7,PLZA,PLZA,El Cerrito Plaza,El Cerrito Plaza
+7,8,PLZA,NBRK,El Cerrito Plaza,North Berkeley
+7,9,PLZA,DBRK,El Cerrito Plaza,Downtown Berkeley
+7,10,PLZA,ASHB,El Cerrito Plaza,Ashby
+7,11,PLZA,MCAR,El Cerrito Plaza,MacArthur
+7,12,PLZA,19TH,El Cerrito Plaza,19th Street Oakland
+7,13,PLZA,12TH,El Cerrito Plaza,12th Street Oakland
+7,14,PLZA,LAKE,El Cerrito Plaza,Lake Merritt
+7,15,PLZA,FTVL,El Cerrito Plaza,Fruitvale
+7,16,PLZA,COLS,El Cerrito Plaza,Coliseum
+7,17,PLZA,SANL,El Cerrito Plaza,San Leandro
+7,18,PLZA,BAYF,El Cerrito Plaza,Bay Fair
+7,19,PLZA,HAYW,El Cerrito Plaza,Hayward
+7,20,PLZA,SHAY,El Cerrito Plaza,South Hayward
+7,21,PLZA,UCTY,El Cerrito Plaza,Union City
+7,22,PLZA,FRMT,El Cerrito Plaza,Fremont
+7,23,PLZA,CAST,El Cerrito Plaza,Castro Valley
+7,24,PLZA,DUBL,El Cerrito Plaza,Dublin/Pleasanton
+7,25,PLZA,PITT,El Cerrito Plaza,Pittsburg/Bay Point
+7,26,PLZA,NCON,El Cerrito Plaza,North Concord/Martinez
+7,27,PLZA,COLM,El Cerrito Plaza,Colma
+7,28,PLZA,CONC,El Cerrito Plaza,Concord
+7,29,PLZA,PHIL,El Cerrito Plaza,Pleasant Hill
+7,30,PLZA,WCRK,El Cerrito Plaza,Walnut Creek
+7,31,PLZA,LAFY,El Cerrito Plaza,Lafayette
+7,32,PLZA,ORIN,El Cerrito Plaza,Orinda
+7,33,PLZA,ROCK,El Cerrito Plaza,Rockridge
+7,34,PLZA,WOAK,El Cerrito Plaza,West Oakland
+7,35,PLZA,EMBR,El Cerrito Plaza,Embarcadero
+7,36,PLZA,MONT,El Cerrito Plaza,Montgomery Street
+7,37,PLZA,POWL,El Cerrito Plaza,Powell Street
+7,38,PLZA,CIVC,El Cerrito Plaza,Civic Center
+7,39,PLZA,16TH,El Cerrito Plaza,16th Street Mission
+7,40,PLZA,24TH,El Cerrito Plaza,24th Street Mission
+7,41,PLZA,GLEN,El Cerrito Plaza,Glen Park
+7,42,PLZA,BALB,El Cerrito Plaza,Balboa Park
+7,43,PLZA,DALY,El Cerrito Plaza,Daly City
+7,44,PLZA,OAKL,El Cerrito Plaza,Oakland City Center/12th St
+7,45,PLZA,WARM,El Cerrito Plaza,Warm Springs/South Fremont
+7,46,PLZA,MLPT,El Cerrito Plaza,Milpitas
+7,47,PLZA,BERY,El Cerrito Plaza,Berryessa/North San Jose
+7,48,PLZA,PCTR,El Cerrito Plaza,Pittsburg Center
+7,49,PLZA,ANTC,El Cerrito Plaza,Antioch
+8,0,NBRK,SSAN,North Berkeley,South San Francisco
+8,1,NBRK,SBRN,North Berkeley,San Bruno
+8,2,NBRK,SFIA,North Berkeley,San Francisco International Airport
+8,3,NBRK,MLBR,North Berkeley,Millbrae
+8,4,NBRK,WDUB,North Berkeley,West Dublin/Pleasanton
+8,5,NBRK,RICH,North Berkeley,Richmond
+8,6,NBRK,DELN,North Berkeley,Del Norte
+8,7,NBRK,PLZA,North Berkeley,El Cerrito Plaza
+8,8,NBRK,NBRK,North Berkeley,North Berkeley
+8,9,NBRK,DBRK,North Berkeley,Downtown Berkeley
+8,10,NBRK,ASHB,North Berkeley,Ashby
+8,11,NBRK,MCAR,North Berkeley,MacArthur
+8,12,NBRK,19TH,North Berkeley,19th Street Oakland
+8,13,NBRK,12TH,North Berkeley,12th Street Oakland
+8,14,NBRK,LAKE,North Berkeley,Lake Merritt
+8,15,NBRK,FTVL,North Berkeley,Fruitvale
+8,16,NBRK,COLS,North Berkeley,Coliseum
+8,17,NBRK,SANL,North Berkeley,San Leandro
+8,18,NBRK,BAYF,North Berkeley,Bay Fair
+8,19,NBRK,HAYW,North Berkeley,Hayward
+8,20,NBRK,SHAY,North Berkeley,South Hayward
+8,21,NBRK,UCTY,North Berkeley,Union City
+8,22,NBRK,FRMT,North Berkeley,Fremont
+8,23,NBRK,CAST,North Berkeley,Castro Valley
+8,24,NBRK,DUBL,North Berkeley,Dublin/Pleasanton
+8,25,NBRK,PITT,North Berkeley,Pittsburg/Bay Point
+8,26,NBRK,NCON,North Berkeley,North Concord/Martinez
+8,27,NBRK,COLM,North Berkeley,Colma
+8,28,NBRK,CONC,North Berkeley,Concord
+8,29,NBRK,PHIL,North Berkeley,Pleasant Hill
+8,30,NBRK,WCRK,North Berkeley,Walnut Creek
+8,31,NBRK,LAFY,North Berkeley,Lafayette
+8,32,NBRK,ORIN,North Berkeley,Orinda
+8,33,NBRK,ROCK,North Berkeley,Rockridge
+8,34,NBRK,WOAK,North Berkeley,West Oakland
+8,35,NBRK,EMBR,North Berkeley,Embarcadero
+8,36,NBRK,MONT,North Berkeley,Montgomery Street
+8,37,NBRK,POWL,North Berkeley,Powell Street
+8,38,NBRK,CIVC,North Berkeley,Civic Center
+8,39,NBRK,16TH,North Berkeley,16th Street Mission
+8,40,NBRK,24TH,North Berkeley,24th Street Mission
+8,41,NBRK,GLEN,North Berkeley,Glen Park
+8,42,NBRK,BALB,North Berkeley,Balboa Park
+8,43,NBRK,DALY,North Berkeley,Daly City
+8,44,NBRK,OAKL,North Berkeley,Oakland City Center/12th St
+8,45,NBRK,WARM,North Berkeley,Warm Springs/South Fremont
+8,46,NBRK,MLPT,North Berkeley,Milpitas
+8,47,NBRK,BERY,North Berkeley,Berryessa/North San Jose
+8,48,NBRK,PCTR,North Berkeley,Pittsburg Center
+8,49,NBRK,ANTC,North Berkeley,Antioch
+9,0,DBRK,SSAN,Downtown Berkeley,South San Francisco
+9,1,DBRK,SBRN,Downtown Berkeley,San Bruno
+9,2,DBRK,SFIA,Downtown Berkeley,San Francisco International Airport
+9,3,DBRK,MLBR,Downtown Berkeley,Millbrae
+9,4,DBRK,WDUB,Downtown Berkeley,West Dublin/Pleasanton
+9,5,DBRK,RICH,Downtown Berkeley,Richmond
+9,6,DBRK,DELN,Downtown Berkeley,Del Norte
+9,7,DBRK,PLZA,Downtown Berkeley,El Cerrito Plaza
+9,8,DBRK,NBRK,Downtown Berkeley,North Berkeley
+9,9,DBRK,DBRK,Downtown Berkeley,Downtown Berkeley
+9,10,DBRK,ASHB,Downtown Berkeley,Ashby
+9,11,DBRK,MCAR,Downtown Berkeley,MacArthur
+9,12,DBRK,19TH,Downtown Berkeley,19th Street Oakland
+9,13,DBRK,12TH,Downtown Berkeley,12th Street Oakland
+9,14,DBRK,LAKE,Downtown Berkeley,Lake Merritt
+9,15,DBRK,FTVL,Downtown Berkeley,Fruitvale
+9,16,DBRK,COLS,Downtown Berkeley,Coliseum
+9,17,DBRK,SANL,Downtown Berkeley,San Leandro
+9,18,DBRK,BAYF,Downtown Berkeley,Bay Fair
+9,19,DBRK,HAYW,Downtown Berkeley,Hayward
+9,20,DBRK,SHAY,Downtown Berkeley,South Hayward
+9,21,DBRK,UCTY,Downtown Berkeley,Union City
+9,22,DBRK,FRMT,Downtown Berkeley,Fremont
+9,23,DBRK,CAST,Downtown Berkeley,Castro Valley
+9,24,DBRK,DUBL,Downtown Berkeley,Dublin/Pleasanton
+9,25,DBRK,PITT,Downtown Berkeley,Pittsburg/Bay Point
+9,26,DBRK,NCON,Downtown Berkeley,North Concord/Martinez
+9,27,DBRK,COLM,Downtown Berkeley,Colma
+9,28,DBRK,CONC,Downtown Berkeley,Concord
+9,29,DBRK,PHIL,Downtown Berkeley,Pleasant Hill
+9,30,DBRK,WCRK,Downtown Berkeley,Walnut Creek
+9,31,DBRK,LAFY,Downtown Berkeley,Lafayette
+9,32,DBRK,ORIN,Downtown Berkeley,Orinda
+9,33,DBRK,ROCK,Downtown Berkeley,Rockridge
+9,34,DBRK,WOAK,Downtown Berkeley,West Oakland
+9,35,DBRK,EMBR,Downtown Berkeley,Embarcadero
+9,36,DBRK,MONT,Downtown Berkeley,Montgomery Street
+9,37,DBRK,POWL,Downtown Berkeley,Powell Street
+9,38,DBRK,CIVC,Downtown Berkeley,Civic Center
+9,39,DBRK,16TH,Downtown Berkeley,16th Street Mission
+9,40,DBRK,24TH,Downtown Berkeley,24th Street Mission
+9,41,DBRK,GLEN,Downtown Berkeley,Glen Park
+9,42,DBRK,BALB,Downtown Berkeley,Balboa Park
+9,43,DBRK,DALY,Downtown Berkeley,Daly City
+9,44,DBRK,OAKL,Downtown Berkeley,Oakland City Center/12th St
+9,45,DBRK,WARM,Downtown Berkeley,Warm Springs/South Fremont
+9,46,DBRK,MLPT,Downtown Berkeley,Milpitas
+9,47,DBRK,BERY,Downtown Berkeley,Berryessa/North San Jose
+9,48,DBRK,PCTR,Downtown Berkeley,Pittsburg Center
+9,49,DBRK,ANTC,Downtown Berkeley,Antioch
+10,0,ASHB,SSAN,Ashby,South San Francisco
+10,1,ASHB,SBRN,Ashby,San Bruno
+10,2,ASHB,SFIA,Ashby,San Francisco International Airport
+10,3,ASHB,MLBR,Ashby,Millbrae
+10,4,ASHB,WDUB,Ashby,West Dublin/Pleasanton
+10,5,ASHB,RICH,Ashby,Richmond
+10,6,ASHB,DELN,Ashby,Del Norte
+10,7,ASHB,PLZA,Ashby,El Cerrito Plaza
+10,8,ASHB,NBRK,Ashby,North Berkeley
+10,9,ASHB,DBRK,Ashby,Downtown Berkeley
+10,10,ASHB,ASHB,Ashby,Ashby
+10,11,ASHB,MCAR,Ashby,MacArthur
+10,12,ASHB,19TH,Ashby,19th Street Oakland
+10,13,ASHB,12TH,Ashby,12th Street Oakland
+10,14,ASHB,LAKE,Ashby,Lake Merritt
+10,15,ASHB,FTVL,Ashby,Fruitvale
+10,16,ASHB,COLS,Ashby,Coliseum
+10,17,ASHB,SANL,Ashby,San Leandro
+10,18,ASHB,BAYF,Ashby,Bay Fair
+10,19,ASHB,HAYW,Ashby,Hayward
+10,20,ASHB,SHAY,Ashby,South Hayward
+10,21,ASHB,UCTY,Ashby,Union City
+10,22,ASHB,FRMT,Ashby,Fremont
+10,23,ASHB,CAST,Ashby,Castro Valley
+10,24,ASHB,DUBL,Ashby,Dublin/Pleasanton
+10,25,ASHB,PITT,Ashby,Pittsburg/Bay Point
+10,26,ASHB,NCON,Ashby,North Concord/Martinez
+10,27,ASHB,COLM,Ashby,Colma
+10,28,ASHB,CONC,Ashby,Concord
+10,29,ASHB,PHIL,Ashby,Pleasant Hill
+10,30,ASHB,WCRK,Ashby,Walnut Creek
+10,31,ASHB,LAFY,Ashby,Lafayette
+10,32,ASHB,ORIN,Ashby,Orinda
+10,33,ASHB,ROCK,Ashby,Rockridge
+10,34,ASHB,WOAK,Ashby,West Oakland
+10,35,ASHB,EMBR,Ashby,Embarcadero
+10,36,ASHB,MONT,Ashby,Montgomery Street
+10,37,ASHB,POWL,Ashby,Powell Street
+10,38,ASHB,CIVC,Ashby,Civic Center
+10,39,ASHB,16TH,Ashby,16th Street Mission
+10,40,ASHB,24TH,Ashby,24th Street Mission
+10,41,ASHB,GLEN,Ashby,Glen Park
+10,42,ASHB,BALB,Ashby,Balboa Park
+10,43,ASHB,DALY,Ashby,Daly City
+10,44,ASHB,OAKL,Ashby,Oakland City Center/12th St
+10,45,ASHB,WARM,Ashby,Warm Springs/South Fremont
+10,46,ASHB,MLPT,Ashby,Milpitas
+10,47,ASHB,BERY,Ashby,Berryessa/North San Jose
+10,48,ASHB,PCTR,Ashby,Pittsburg Center
+10,49,ASHB,ANTC,Ashby,Antioch
+11,0,MCAR,SSAN,MacArthur,South San Francisco
+11,1,MCAR,SBRN,MacArthur,San Bruno
+11,2,MCAR,SFIA,MacArthur,San Francisco International Airport
+11,3,MCAR,MLBR,MacArthur,Millbrae
+11,4,MCAR,WDUB,MacArthur,West Dublin/Pleasanton
+11,5,MCAR,RICH,MacArthur,Richmond
+11,6,MCAR,DELN,MacArthur,Del Norte
+11,7,MCAR,PLZA,MacArthur,El Cerrito Plaza
+11,8,MCAR,NBRK,MacArthur,North Berkeley
+11,9,MCAR,DBRK,MacArthur,Downtown Berkeley
+11,10,MCAR,ASHB,MacArthur,Ashby
+11,11,MCAR,MCAR,MacArthur,MacArthur
+11,12,MCAR,19TH,MacArthur,19th Street Oakland
+11,13,MCAR,12TH,MacArthur,12th Street Oakland
+11,14,MCAR,LAKE,MacArthur,Lake Merritt
+11,15,MCAR,FTVL,MacArthur,Fruitvale
+11,16,MCAR,COLS,MacArthur,Coliseum
+11,17,MCAR,SANL,MacArthur,San Leandro
+11,18,MCAR,BAYF,MacArthur,Bay Fair
+11,19,MCAR,HAYW,MacArthur,Hayward
+11,20,MCAR,SHAY,MacArthur,South Hayward
+11,21,MCAR,UCTY,MacArthur,Union City
+11,22,MCAR,FRMT,MacArthur,Fremont
+11,23,MCAR,CAST,MacArthur,Castro Valley
+11,24,MCAR,DUBL,MacArthur,Dublin/Pleasanton
+11,25,MCAR,PITT,MacArthur,Pittsburg/Bay Point
+11,26,MCAR,NCON,MacArthur,North Concord/Martinez
+11,27,MCAR,COLM,MacArthur,Colma
+11,28,MCAR,CONC,MacArthur,Concord
+11,29,MCAR,PHIL,MacArthur,Pleasant Hill
+11,30,MCAR,WCRK,MacArthur,Walnut Creek
+11,31,MCAR,LAFY,MacArthur,Lafayette
+11,32,MCAR,ORIN,MacArthur,Orinda
+11,33,MCAR,ROCK,MacArthur,Rockridge
+11,34,MCAR,WOAK,MacArthur,West Oakland
+11,35,MCAR,EMBR,MacArthur,Embarcadero
+11,36,MCAR,MONT,MacArthur,Montgomery Street
+11,37,MCAR,POWL,MacArthur,Powell Street
+11,38,MCAR,CIVC,MacArthur,Civic Center
+11,39,MCAR,16TH,MacArthur,16th Street Mission
+11,40,MCAR,24TH,MacArthur,24th Street Mission
+11,41,MCAR,GLEN,MacArthur,Glen Park
+11,42,MCAR,BALB,MacArthur,Balboa Park
+11,43,MCAR,DALY,MacArthur,Daly City
+11,44,MCAR,OAKL,MacArthur,Oakland City Center/12th St
+11,45,MCAR,WARM,MacArthur,Warm Springs/South Fremont
+11,46,MCAR,MLPT,MacArthur,Milpitas
+11,47,MCAR,BERY,MacArthur,Berryessa/North San Jose
+11,48,MCAR,PCTR,MacArthur,Pittsburg Center
+11,49,MCAR,ANTC,MacArthur,Antioch
+12,0,19TH,SSAN,19th Street Oakland,South San Francisco
+12,1,19TH,SBRN,19th Street Oakland,San Bruno
+12,2,19TH,SFIA,19th Street Oakland,San Francisco International Airport
+12,3,19TH,MLBR,19th Street Oakland,Millbrae
+12,4,19TH,WDUB,19th Street Oakland,West Dublin/Pleasanton
+12,5,19TH,RICH,19th Street Oakland,Richmond
+12,6,19TH,DELN,19th Street Oakland,Del Norte
+12,7,19TH,PLZA,19th Street Oakland,El Cerrito Plaza
+12,8,19TH,NBRK,19th Street Oakland,North Berkeley
+12,9,19TH,DBRK,19th Street Oakland,Downtown Berkeley
+12,10,19TH,ASHB,19th Street Oakland,Ashby
+12,11,19TH,MCAR,19th Street Oakland,MacArthur
+12,12,19TH,19TH,19th Street Oakland,19th Street Oakland
+12,13,19TH,12TH,19th Street Oakland,12th Street Oakland
+12,14,19TH,LAKE,19th Street Oakland,Lake Merritt
+12,15,19TH,FTVL,19th Street Oakland,Fruitvale
+12,16,19TH,COLS,19th Street Oakland,Coliseum
+12,17,19TH,SANL,19th Street Oakland,San Leandro
+12,18,19TH,BAYF,19th Street Oakland,Bay Fair
+12,19,19TH,HAYW,19th Street Oakland,Hayward
+12,20,19TH,SHAY,19th Street Oakland,South Hayward
+12,21,19TH,UCTY,19th Street Oakland,Union City
+12,22,19TH,FRMT,19th Street Oakland,Fremont
+12,23,19TH,CAST,19th Street Oakland,Castro Valley
+12,24,19TH,DUBL,19th Street Oakland,Dublin/Pleasanton
+12,25,19TH,PITT,19th Street Oakland,Pittsburg/Bay Point
+12,26,19TH,NCON,19th Street Oakland,North Concord/Martinez
+12,27,19TH,COLM,19th Street Oakland,Colma
+12,28,19TH,CONC,19th Street Oakland,Concord
+12,29,19TH,PHIL,19th Street Oakland,Pleasant Hill
+12,30,19TH,WCRK,19th Street Oakland,Walnut Creek
+12,31,19TH,LAFY,19th Street Oakland,Lafayette
+12,32,19TH,ORIN,19th Street Oakland,Orinda
+12,33,19TH,ROCK,19th Street Oakland,Rockridge
+12,34,19TH,WOAK,19th Street Oakland,West Oakland
+12,35,19TH,EMBR,19th Street Oakland,Embarcadero
+12,36,19TH,MONT,19th Street Oakland,Montgomery Street
+12,37,19TH,POWL,19th Street Oakland,Powell Street
+12,38,19TH,CIVC,19th Street Oakland,Civic Center
+12,39,19TH,16TH,19th Street Oakland,16th Street Mission
+12,40,19TH,24TH,19th Street Oakland,24th Street Mission
+12,41,19TH,GLEN,19th Street Oakland,Glen Park
+12,42,19TH,BALB,19th Street Oakland,Balboa Park
+12,43,19TH,DALY,19th Street Oakland,Daly City
+12,44,19TH,OAKL,19th Street Oakland,Oakland City Center/12th St
+12,45,19TH,WARM,19th Street Oakland,Warm Springs/South Fremont
+12,46,19TH,MLPT,19th Street Oakland,Milpitas
+12,47,19TH,BERY,19th Street Oakland,Berryessa/North San Jose
+12,48,19TH,PCTR,19th Street Oakland,Pittsburg Center
+12,49,19TH,ANTC,19th Street Oakland,Antioch
+13,0,12TH,SSAN,12th Street Oakland,South San Francisco
+13,1,12TH,SBRN,12th Street Oakland,San Bruno
+13,2,12TH,SFIA,12th Street Oakland,San Francisco International Airport
+13,3,12TH,MLBR,12th Street Oakland,Millbrae
+13,4,12TH,WDUB,12th Street Oakland,West Dublin/Pleasanton
+13,5,12TH,RICH,12th Street Oakland,Richmond
+13,6,12TH,DELN,12th Street Oakland,Del Norte
+13,7,12TH,PLZA,12th Street Oakland,El Cerrito Plaza
+13,8,12TH,NBRK,12th Street Oakland,North Berkeley
+13,9,12TH,DBRK,12th Street Oakland,Downtown Berkeley
+13,10,12TH,ASHB,12th Street Oakland,Ashby
+13,11,12TH,MCAR,12th Street Oakland,MacArthur
+13,12,12TH,19TH,12th Street Oakland,19th Street Oakland
+13,13,12TH,12TH,12th Street Oakland,12th Street Oakland
+13,14,12TH,LAKE,12th Street Oakland,Lake Merritt
+13,15,12TH,FTVL,12th Street Oakland,Fruitvale
+13,16,12TH,COLS,12th Street Oakland,Coliseum
+13,17,12TH,SANL,12th Street Oakland,San Leandro
+13,18,12TH,BAYF,12th Street Oakland,Bay Fair
+13,19,12TH,HAYW,12th Street Oakland,Hayward
+13,20,12TH,SHAY,12th Street Oakland,South Hayward
+13,21,12TH,UCTY,12th Street Oakland,Union City
+13,22,12TH,FRMT,12th Street Oakland,Fremont
+13,23,12TH,CAST,12th Street Oakland,Castro Valley
+13,24,12TH,DUBL,12th Street Oakland,Dublin/Pleasanton
+13,25,12TH,PITT,12th Street Oakland,Pittsburg/Bay Point
+13,26,12TH,NCON,12th Street Oakland,North Concord/Martinez
+13,27,12TH,COLM,12th Street Oakland,Colma
+13,28,12TH,CONC,12th Street Oakland,Concord
+13,29,12TH,PHIL,12th Street Oakland,Pleasant Hill
+13,30,12TH,WCRK,12th Street Oakland,Walnut Creek
+13,31,12TH,LAFY,12th Street Oakland,Lafayette
+13,32,12TH,ORIN,12th Street Oakland,Orinda
+13,33,12TH,ROCK,12th Street Oakland,Rockridge
+13,34,12TH,WOAK,12th Street Oakland,West Oakland
+13,35,12TH,EMBR,12th Street Oakland,Embarcadero
+13,36,12TH,MONT,12th Street Oakland,Montgomery Street
+13,37,12TH,POWL,12th Street Oakland,Powell Street
+13,38,12TH,CIVC,12th Street Oakland,Civic Center
+13,39,12TH,16TH,12th Street Oakland,16th Street Mission
+13,40,12TH,24TH,12th Street Oakland,24th Street Mission
+13,41,12TH,GLEN,12th Street Oakland,Glen Park
+13,42,12TH,BALB,12th Street Oakland,Balboa Park
+13,43,12TH,DALY,12th Street Oakland,Daly City
+13,44,12TH,OAKL,12th Street Oakland,Oakland City Center/12th St
+13,45,12TH,WARM,12th Street Oakland,Warm Springs/South Fremont
+13,46,12TH,MLPT,12th Street Oakland,Milpitas
+13,47,12TH,BERY,12th Street Oakland,Berryessa/North San Jose
+13,48,12TH,PCTR,12th Street Oakland,Pittsburg Center
+13,49,12TH,ANTC,12th Street Oakland,Antioch
+14,0,LAKE,SSAN,Lake Merritt,South San Francisco
+14,1,LAKE,SBRN,Lake Merritt,San Bruno
+14,2,LAKE,SFIA,Lake Merritt,San Francisco International Airport
+14,3,LAKE,MLBR,Lake Merritt,Millbrae
+14,4,LAKE,WDUB,Lake Merritt,West Dublin/Pleasanton
+14,5,LAKE,RICH,Lake Merritt,Richmond
+14,6,LAKE,DELN,Lake Merritt,Del Norte
+14,7,LAKE,PLZA,Lake Merritt,El Cerrito Plaza
+14,8,LAKE,NBRK,Lake Merritt,North Berkeley
+14,9,LAKE,DBRK,Lake Merritt,Downtown Berkeley
+14,10,LAKE,ASHB,Lake Merritt,Ashby
+14,11,LAKE,MCAR,Lake Merritt,MacArthur
+14,12,LAKE,19TH,Lake Merritt,19th Street Oakland
+14,13,LAKE,12TH,Lake Merritt,12th Street Oakland
+14,14,LAKE,LAKE,Lake Merritt,Lake Merritt
+14,15,LAKE,FTVL,Lake Merritt,Fruitvale
+14,16,LAKE,COLS,Lake Merritt,Coliseum
+14,17,LAKE,SANL,Lake Merritt,San Leandro
+14,18,LAKE,BAYF,Lake Merritt,Bay Fair
+14,19,LAKE,HAYW,Lake Merritt,Hayward
+14,20,LAKE,SHAY,Lake Merritt,South Hayward
+14,21,LAKE,UCTY,Lake Merritt,Union City
+14,22,LAKE,FRMT,Lake Merritt,Fremont
+14,23,LAKE,CAST,Lake Merritt,Castro Valley
+14,24,LAKE,DUBL,Lake Merritt,Dublin/Pleasanton
+14,25,LAKE,PITT,Lake Merritt,Pittsburg/Bay Point
+14,26,LAKE,NCON,Lake Merritt,North Concord/Martinez
+14,27,LAKE,COLM,Lake Merritt,Colma
+14,28,LAKE,CONC,Lake Merritt,Concord
+14,29,LAKE,PHIL,Lake Merritt,Pleasant Hill
+14,30,LAKE,WCRK,Lake Merritt,Walnut Creek
+14,31,LAKE,LAFY,Lake Merritt,Lafayette
+14,32,LAKE,ORIN,Lake Merritt,Orinda
+14,33,LAKE,ROCK,Lake Merritt,Rockridge
+14,34,LAKE,WOAK,Lake Merritt,West Oakland
+14,35,LAKE,EMBR,Lake Merritt,Embarcadero
+14,36,LAKE,MONT,Lake Merritt,Montgomery Street
+14,37,LAKE,POWL,Lake Merritt,Powell Street
+14,38,LAKE,CIVC,Lake Merritt,Civic Center
+14,39,LAKE,16TH,Lake Merritt,16th Street Mission
+14,40,LAKE,24TH,Lake Merritt,24th Street Mission
+14,41,LAKE,GLEN,Lake Merritt,Glen Park
+14,42,LAKE,BALB,Lake Merritt,Balboa Park
+14,43,LAKE,DALY,Lake Merritt,Daly City
+14,44,LAKE,OAKL,Lake Merritt,Oakland City Center/12th St
+14,45,LAKE,WARM,Lake Merritt,Warm Springs/South Fremont
+14,46,LAKE,MLPT,Lake Merritt,Milpitas
+14,47,LAKE,BERY,Lake Merritt,Berryessa/North San Jose
+14,48,LAKE,PCTR,Lake Merritt,Pittsburg Center
+14,49,LAKE,ANTC,Lake Merritt,Antioch
+15,0,FTVL,SSAN,Fruitvale,South San Francisco
+15,1,FTVL,SBRN,Fruitvale,San Bruno
+15,2,FTVL,SFIA,Fruitvale,San Francisco International Airport
+15,3,FTVL,MLBR,Fruitvale,Millbrae
+15,4,FTVL,WDUB,Fruitvale,West Dublin/Pleasanton
+15,5,FTVL,RICH,Fruitvale,Richmond
+15,6,FTVL,DELN,Fruitvale,Del Norte
+15,7,FTVL,PLZA,Fruitvale,El Cerrito Plaza
+15,8,FTVL,NBRK,Fruitvale,North Berkeley
+15,9,FTVL,DBRK,Fruitvale,Downtown Berkeley
+15,10,FTVL,ASHB,Fruitvale,Ashby
+15,11,FTVL,MCAR,Fruitvale,MacArthur
+15,12,FTVL,19TH,Fruitvale,19th Street Oakland
+15,13,FTVL,12TH,Fruitvale,12th Street Oakland
+15,14,FTVL,LAKE,Fruitvale,Lake Merritt
+15,15,FTVL,FTVL,Fruitvale,Fruitvale
+15,16,FTVL,COLS,Fruitvale,Coliseum
+15,17,FTVL,SANL,Fruitvale,San Leandro
+15,18,FTVL,BAYF,Fruitvale,Bay Fair
+15,19,FTVL,HAYW,Fruitvale,Hayward
+15,20,FTVL,SHAY,Fruitvale,South Hayward
+15,21,FTVL,UCTY,Fruitvale,Union City
+15,22,FTVL,FRMT,Fruitvale,Fremont
+15,23,FTVL,CAST,Fruitvale,Castro Valley
+15,24,FTVL,DUBL,Fruitvale,Dublin/Pleasanton
+15,25,FTVL,PITT,Fruitvale,Pittsburg/Bay Point
+15,26,FTVL,NCON,Fruitvale,North Concord/Martinez
+15,27,FTVL,COLM,Fruitvale,Colma
+15,28,FTVL,CONC,Fruitvale,Concord
+15,29,FTVL,PHIL,Fruitvale,Pleasant Hill
+15,30,FTVL,WCRK,Fruitvale,Walnut Creek
+15,31,FTVL,LAFY,Fruitvale,Lafayette
+15,32,FTVL,ORIN,Fruitvale,Orinda
+15,33,FTVL,ROCK,Fruitvale,Rockridge
+15,34,FTVL,WOAK,Fruitvale,West Oakland
+15,35,FTVL,EMBR,Fruitvale,Embarcadero
+15,36,FTVL,MONT,Fruitvale,Montgomery Street
+15,37,FTVL,POWL,Fruitvale,Powell Street
+15,38,FTVL,CIVC,Fruitvale,Civic Center
+15,39,FTVL,16TH,Fruitvale,16th Street Mission
+15,40,FTVL,24TH,Fruitvale,24th Street Mission
+15,41,FTVL,GLEN,Fruitvale,Glen Park
+15,42,FTVL,BALB,Fruitvale,Balboa Park
+15,43,FTVL,DALY,Fruitvale,Daly City
+15,44,FTVL,OAKL,Fruitvale,Oakland City Center/12th St
+15,45,FTVL,WARM,Fruitvale,Warm Springs/South Fremont
+15,46,FTVL,MLPT,Fruitvale,Milpitas
+15,47,FTVL,BERY,Fruitvale,Berryessa/North San Jose
+15,48,FTVL,PCTR,Fruitvale,Pittsburg Center
+15,49,FTVL,ANTC,Fruitvale,Antioch
+16,0,COLS,SSAN,Coliseum,South San Francisco
+16,1,COLS,SBRN,Coliseum,San Bruno
+16,2,COLS,SFIA,Coliseum,San Francisco International Airport
+16,3,COLS,MLBR,Coliseum,Millbrae
+16,4,COLS,WDUB,Coliseum,West Dublin/Pleasanton
+16,5,COLS,RICH,Coliseum,Richmond
+16,6,COLS,DELN,Coliseum,Del Norte
+16,7,COLS,PLZA,Coliseum,El Cerrito Plaza
+16,8,COLS,NBRK,Coliseum,North Berkeley
+16,9,COLS,DBRK,Coliseum,Downtown Berkeley
+16,10,COLS,ASHB,Coliseum,Ashby
+16,11,COLS,MCAR,Coliseum,MacArthur
+16,12,COLS,19TH,Coliseum,19th Street Oakland
+16,13,COLS,12TH,Coliseum,12th Street Oakland
+16,14,COLS,LAKE,Coliseum,Lake Merritt
+16,15,COLS,FTVL,Coliseum,Fruitvale
+16,16,COLS,COLS,Coliseum,Coliseum
+16,17,COLS,SANL,Coliseum,San Leandro
+16,18,COLS,BAYF,Coliseum,Bay Fair
+16,19,COLS,HAYW,Coliseum,Hayward
+16,20,COLS,SHAY,Coliseum,South Hayward
+16,21,COLS,UCTY,Coliseum,Union City
+16,22,COLS,FRMT,Coliseum,Fremont
+16,23,COLS,CAST,Coliseum,Castro Valley
+16,24,COLS,DUBL,Coliseum,Dublin/Pleasanton
+16,25,COLS,PITT,Coliseum,Pittsburg/Bay Point
+16,26,COLS,NCON,Coliseum,North Concord/Martinez
+16,27,COLS,COLM,Coliseum,Colma
+16,28,COLS,CONC,Coliseum,Concord
+16,29,COLS,PHIL,Coliseum,Pleasant Hill
+16,30,COLS,WCRK,Coliseum,Walnut Creek
+16,31,COLS,LAFY,Coliseum,Lafayette
+16,32,COLS,ORIN,Coliseum,Orinda
+16,33,COLS,ROCK,Coliseum,Rockridge
+16,34,COLS,WOAK,Coliseum,West Oakland
+16,35,COLS,EMBR,Coliseum,Embarcadero
+16,36,COLS,MONT,Coliseum,Montgomery Street
+16,37,COLS,POWL,Coliseum,Powell Street
+16,38,COLS,CIVC,Coliseum,Civic Center
+16,39,COLS,16TH,Coliseum,16th Street Mission
+16,40,COLS,24TH,Coliseum,24th Street Mission
+16,41,COLS,GLEN,Coliseum,Glen Park
+16,42,COLS,BALB,Coliseum,Balboa Park
+16,43,COLS,DALY,Coliseum,Daly City
+16,44,COLS,OAKL,Coliseum,Oakland City Center/12th St
+16,45,COLS,WARM,Coliseum,Warm Springs/South Fremont
+16,46,COLS,MLPT,Coliseum,Milpitas
+16,47,COLS,BERY,Coliseum,Berryessa/North San Jose
+16,48,COLS,PCTR,Coliseum,Pittsburg Center
+16,49,COLS,ANTC,Coliseum,Antioch
+17,0,SANL,SSAN,San Leandro,South San Francisco
+17,1,SANL,SBRN,San Leandro,San Bruno
+17,2,SANL,SFIA,San Leandro,San Francisco International Airport
+17,3,SANL,MLBR,San Leandro,Millbrae
+17,4,SANL,WDUB,San Leandro,West Dublin/Pleasanton
+17,5,SANL,RICH,San Leandro,Richmond
+17,6,SANL,DELN,San Leandro,Del Norte
+17,7,SANL,PLZA,San Leandro,El Cerrito Plaza
+17,8,SANL,NBRK,San Leandro,North Berkeley
+17,9,SANL,DBRK,San Leandro,Downtown Berkeley
+17,10,SANL,ASHB,San Leandro,Ashby
+17,11,SANL,MCAR,San Leandro,MacArthur
+17,12,SANL,19TH,San Leandro,19th Street Oakland
+17,13,SANL,12TH,San Leandro,12th Street Oakland
+17,14,SANL,LAKE,San Leandro,Lake Merritt
+17,15,SANL,FTVL,San Leandro,Fruitvale
+17,16,SANL,COLS,San Leandro,Coliseum
+17,17,SANL,SANL,San Leandro,San Leandro
+17,18,SANL,BAYF,San Leandro,Bay Fair
+17,19,SANL,HAYW,San Leandro,Hayward
+17,20,SANL,SHAY,San Leandro,South Hayward
+17,21,SANL,UCTY,San Leandro,Union City
+17,22,SANL,FRMT,San Leandro,Fremont
+17,23,SANL,CAST,San Leandro,Castro Valley
+17,24,SANL,DUBL,San Leandro,Dublin/Pleasanton
+17,25,SANL,PITT,San Leandro,Pittsburg/Bay Point
+17,26,SANL,NCON,San Leandro,North Concord/Martinez
+17,27,SANL,COLM,San Leandro,Colma
+17,28,SANL,CONC,San Leandro,Concord
+17,29,SANL,PHIL,San Leandro,Pleasant Hill
+17,30,SANL,WCRK,San Leandro,Walnut Creek
+17,31,SANL,LAFY,San Leandro,Lafayette
+17,32,SANL,ORIN,San Leandro,Orinda
+17,33,SANL,ROCK,San Leandro,Rockridge
+17,34,SANL,WOAK,San Leandro,West Oakland
+17,35,SANL,EMBR,San Leandro,Embarcadero
+17,36,SANL,MONT,San Leandro,Montgomery Street
+17,37,SANL,POWL,San Leandro,Powell Street
+17,38,SANL,CIVC,San Leandro,Civic Center
+17,39,SANL,16TH,San Leandro,16th Street Mission
+17,40,SANL,24TH,San Leandro,24th Street Mission
+17,41,SANL,GLEN,San Leandro,Glen Park
+17,42,SANL,BALB,San Leandro,Balboa Park
+17,43,SANL,DALY,San Leandro,Daly City
+17,44,SANL,OAKL,San Leandro,Oakland City Center/12th St
+17,45,SANL,WARM,San Leandro,Warm Springs/South Fremont
+17,46,SANL,MLPT,San Leandro,Milpitas
+17,47,SANL,BERY,San Leandro,Berryessa/North San Jose
+17,48,SANL,PCTR,San Leandro,Pittsburg Center
+17,49,SANL,ANTC,San Leandro,Antioch
+18,0,BAYF,SSAN,Bay Fair,South San Francisco
+18,1,BAYF,SBRN,Bay Fair,San Bruno
+18,2,BAYF,SFIA,Bay Fair,San Francisco International Airport
+18,3,BAYF,MLBR,Bay Fair,Millbrae
+18,4,BAYF,WDUB,Bay Fair,West Dublin/Pleasanton
+18,5,BAYF,RICH,Bay Fair,Richmond
+18,6,BAYF,DELN,Bay Fair,Del Norte
+18,7,BAYF,PLZA,Bay Fair,El Cerrito Plaza
+18,8,BAYF,NBRK,Bay Fair,North Berkeley
+18,9,BAYF,DBRK,Bay Fair,Downtown Berkeley
+18,10,BAYF,ASHB,Bay Fair,Ashby
+18,11,BAYF,MCAR,Bay Fair,MacArthur
+18,12,BAYF,19TH,Bay Fair,19th Street Oakland
+18,13,BAYF,12TH,Bay Fair,12th Street Oakland
+18,14,BAYF,LAKE,Bay Fair,Lake Merritt
+18,15,BAYF,FTVL,Bay Fair,Fruitvale
+18,16,BAYF,COLS,Bay Fair,Coliseum
+18,17,BAYF,SANL,Bay Fair,San Leandro
+18,18,BAYF,BAYF,Bay Fair,Bay Fair
+18,19,BAYF,HAYW,Bay Fair,Hayward
+18,20,BAYF,SHAY,Bay Fair,South Hayward
+18,21,BAYF,UCTY,Bay Fair,Union City
+18,22,BAYF,FRMT,Bay Fair,Fremont
+18,23,BAYF,CAST,Bay Fair,Castro Valley
+18,24,BAYF,DUBL,Bay Fair,Dublin/Pleasanton
+18,25,BAYF,PITT,Bay Fair,Pittsburg/Bay Point
+18,26,BAYF,NCON,Bay Fair,North Concord/Martinez
+18,27,BAYF,COLM,Bay Fair,Colma
+18,28,BAYF,CONC,Bay Fair,Concord
+18,29,BAYF,PHIL,Bay Fair,Pleasant Hill
+18,30,BAYF,WCRK,Bay Fair,Walnut Creek
+18,31,BAYF,LAFY,Bay Fair,Lafayette
+18,32,BAYF,ORIN,Bay Fair,Orinda
+18,33,BAYF,ROCK,Bay Fair,Rockridge
+18,34,BAYF,WOAK,Bay Fair,West Oakland
+18,35,BAYF,EMBR,Bay Fair,Embarcadero
+18,36,BAYF,MONT,Bay Fair,Montgomery Street
+18,37,BAYF,POWL,Bay Fair,Powell Street
+18,38,BAYF,CIVC,Bay Fair,Civic Center
+18,39,BAYF,16TH,Bay Fair,16th Street Mission
+18,40,BAYF,24TH,Bay Fair,24th Street Mission
+18,41,BAYF,GLEN,Bay Fair,Glen Park
+18,42,BAYF,BALB,Bay Fair,Balboa Park
+18,43,BAYF,DALY,Bay Fair,Daly City
+18,44,BAYF,OAKL,Bay Fair,Oakland City Center/12th St
+18,45,BAYF,WARM,Bay Fair,Warm Springs/South Fremont
+18,46,BAYF,MLPT,Bay Fair,Milpitas
+18,47,BAYF,BERY,Bay Fair,Berryessa/North San Jose
+18,48,BAYF,PCTR,Bay Fair,Pittsburg Center
+18,49,BAYF,ANTC,Bay Fair,Antioch
+19,0,HAYW,SSAN,Hayward,South San Francisco
+19,1,HAYW,SBRN,Hayward,San Bruno
+19,2,HAYW,SFIA,Hayward,San Francisco International Airport
+19,3,HAYW,MLBR,Hayward,Millbrae
+19,4,HAYW,WDUB,Hayward,West Dublin/Pleasanton
+19,5,HAYW,RICH,Hayward,Richmond
+19,6,HAYW,DELN,Hayward,Del Norte
+19,7,HAYW,PLZA,Hayward,El Cerrito Plaza
+19,8,HAYW,NBRK,Hayward,North Berkeley
+19,9,HAYW,DBRK,Hayward,Downtown Berkeley
+19,10,HAYW,ASHB,Hayward,Ashby
+19,11,HAYW,MCAR,Hayward,MacArthur
+19,12,HAYW,19TH,Hayward,19th Street Oakland
+19,13,HAYW,12TH,Hayward,12th Street Oakland
+19,14,HAYW,LAKE,Hayward,Lake Merritt
+19,15,HAYW,FTVL,Hayward,Fruitvale
+19,16,HAYW,COLS,Hayward,Coliseum
+19,17,HAYW,SANL,Hayward,San Leandro
+19,18,HAYW,BAYF,Hayward,Bay Fair
+19,19,HAYW,HAYW,Hayward,Hayward
+19,20,HAYW,SHAY,Hayward,South Hayward
+19,21,HAYW,UCTY,Hayward,Union City
+19,22,HAYW,FRMT,Hayward,Fremont
+19,23,HAYW,CAST,Hayward,Castro Valley
+19,24,HAYW,DUBL,Hayward,Dublin/Pleasanton
+19,25,HAYW,PITT,Hayward,Pittsburg/Bay Point
+19,26,HAYW,NCON,Hayward,North Concord/Martinez
+19,27,HAYW,COLM,Hayward,Colma
+19,28,HAYW,CONC,Hayward,Concord
+19,29,HAYW,PHIL,Hayward,Pleasant Hill
+19,30,HAYW,WCRK,Hayward,Walnut Creek
+19,31,HAYW,LAFY,Hayward,Lafayette
+19,32,HAYW,ORIN,Hayward,Orinda
+19,33,HAYW,ROCK,Hayward,Rockridge
+19,34,HAYW,WOAK,Hayward,West Oakland
+19,35,HAYW,EMBR,Hayward,Embarcadero
+19,36,HAYW,MONT,Hayward,Montgomery Street
+19,37,HAYW,POWL,Hayward,Powell Street
+19,38,HAYW,CIVC,Hayward,Civic Center
+19,39,HAYW,16TH,Hayward,16th Street Mission
+19,40,HAYW,24TH,Hayward,24th Street Mission
+19,41,HAYW,GLEN,Hayward,Glen Park
+19,42,HAYW,BALB,Hayward,Balboa Park
+19,43,HAYW,DALY,Hayward,Daly City
+19,44,HAYW,OAKL,Hayward,Oakland City Center/12th St
+19,45,HAYW,WARM,Hayward,Warm Springs/South Fremont
+19,46,HAYW,MLPT,Hayward,Milpitas
+19,47,HAYW,BERY,Hayward,Berryessa/North San Jose
+19,48,HAYW,PCTR,Hayward,Pittsburg Center
+19,49,HAYW,ANTC,Hayward,Antioch
+20,0,SHAY,SSAN,South Hayward,South San Francisco
+20,1,SHAY,SBRN,South Hayward,San Bruno
+20,2,SHAY,SFIA,South Hayward,San Francisco International Airport
+20,3,SHAY,MLBR,South Hayward,Millbrae
+20,4,SHAY,WDUB,South Hayward,West Dublin/Pleasanton
+20,5,SHAY,RICH,South Hayward,Richmond
+20,6,SHAY,DELN,South Hayward,Del Norte
+20,7,SHAY,PLZA,South Hayward,El Cerrito Plaza
+20,8,SHAY,NBRK,South Hayward,North Berkeley
+20,9,SHAY,DBRK,South Hayward,Downtown Berkeley
+20,10,SHAY,ASHB,South Hayward,Ashby
+20,11,SHAY,MCAR,South Hayward,MacArthur
+20,12,SHAY,19TH,South Hayward,19th Street Oakland
+20,13,SHAY,12TH,South Hayward,12th Street Oakland
+20,14,SHAY,LAKE,South Hayward,Lake Merritt
+20,15,SHAY,FTVL,South Hayward,Fruitvale
+20,16,SHAY,COLS,South Hayward,Coliseum
+20,17,SHAY,SANL,South Hayward,San Leandro
+20,18,SHAY,BAYF,South Hayward,Bay Fair
+20,19,SHAY,HAYW,South Hayward,Hayward
+20,20,SHAY,SHAY,South Hayward,South Hayward
+20,21,SHAY,UCTY,South Hayward,Union City
+20,22,SHAY,FRMT,South Hayward,Fremont
+20,23,SHAY,CAST,South Hayward,Castro Valley
+20,24,SHAY,DUBL,South Hayward,Dublin/Pleasanton
+20,25,SHAY,PITT,South Hayward,Pittsburg/Bay Point
+20,26,SHAY,NCON,South Hayward,North Concord/Martinez
+20,27,SHAY,COLM,South Hayward,Colma
+20,28,SHAY,CONC,South Hayward,Concord
+20,29,SHAY,PHIL,South Hayward,Pleasant Hill
+20,30,SHAY,WCRK,South Hayward,Walnut Creek
+20,31,SHAY,LAFY,South Hayward,Lafayette
+20,32,SHAY,ORIN,South Hayward,Orinda
+20,33,SHAY,ROCK,South Hayward,Rockridge
+20,34,SHAY,WOAK,South Hayward,West Oakland
+20,35,SHAY,EMBR,South Hayward,Embarcadero
+20,36,SHAY,MONT,South Hayward,Montgomery Street
+20,37,SHAY,POWL,South Hayward,Powell Street
+20,38,SHAY,CIVC,South Hayward,Civic Center
+20,39,SHAY,16TH,South Hayward,16th Street Mission
+20,40,SHAY,24TH,South Hayward,24th Street Mission
+20,41,SHAY,GLEN,South Hayward,Glen Park
+20,42,SHAY,BALB,South Hayward,Balboa Park
+20,43,SHAY,DALY,South Hayward,Daly City
+20,44,SHAY,OAKL,South Hayward,Oakland City Center/12th St
+20,45,SHAY,WARM,South Hayward,Warm Springs/South Fremont
+20,46,SHAY,MLPT,South Hayward,Milpitas
+20,47,SHAY,BERY,South Hayward,Berryessa/North San Jose
+20,48,SHAY,PCTR,South Hayward,Pittsburg Center
+20,49,SHAY,ANTC,South Hayward,Antioch
+21,0,UCTY,SSAN,Union City,South San Francisco
+21,1,UCTY,SBRN,Union City,San Bruno
+21,2,UCTY,SFIA,Union City,San Francisco International Airport
+21,3,UCTY,MLBR,Union City,Millbrae
+21,4,UCTY,WDUB,Union City,West Dublin/Pleasanton
+21,5,UCTY,RICH,Union City,Richmond
+21,6,UCTY,DELN,Union City,Del Norte
+21,7,UCTY,PLZA,Union City,El Cerrito Plaza
+21,8,UCTY,NBRK,Union City,North Berkeley
+21,9,UCTY,DBRK,Union City,Downtown Berkeley
+21,10,UCTY,ASHB,Union City,Ashby
+21,11,UCTY,MCAR,Union City,MacArthur
+21,12,UCTY,19TH,Union City,19th Street Oakland
+21,13,UCTY,12TH,Union City,12th Street Oakland
+21,14,UCTY,LAKE,Union City,Lake Merritt
+21,15,UCTY,FTVL,Union City,Fruitvale
+21,16,UCTY,COLS,Union City,Coliseum
+21,17,UCTY,SANL,Union City,San Leandro
+21,18,UCTY,BAYF,Union City,Bay Fair
+21,19,UCTY,HAYW,Union City,Hayward
+21,20,UCTY,SHAY,Union City,South Hayward
+21,21,UCTY,UCTY,Union City,Union City
+21,22,UCTY,FRMT,Union City,Fremont
+21,23,UCTY,CAST,Union City,Castro Valley
+21,24,UCTY,DUBL,Union City,Dublin/Pleasanton
+21,25,UCTY,PITT,Union City,Pittsburg/Bay Point
+21,26,UCTY,NCON,Union City,North Concord/Martinez
+21,27,UCTY,COLM,Union City,Colma
+21,28,UCTY,CONC,Union City,Concord
+21,29,UCTY,PHIL,Union City,Pleasant Hill
+21,30,UCTY,WCRK,Union City,Walnut Creek
+21,31,UCTY,LAFY,Union City,Lafayette
+21,32,UCTY,ORIN,Union City,Orinda
+21,33,UCTY,ROCK,Union City,Rockridge
+21,34,UCTY,WOAK,Union City,West Oakland
+21,35,UCTY,EMBR,Union City,Embarcadero
+21,36,UCTY,MONT,Union City,Montgomery Street
+21,37,UCTY,POWL,Union City,Powell Street
+21,38,UCTY,CIVC,Union City,Civic Center
+21,39,UCTY,16TH,Union City,16th Street Mission
+21,40,UCTY,24TH,Union City,24th Street Mission
+21,41,UCTY,GLEN,Union City,Glen Park
+21,42,UCTY,BALB,Union City,Balboa Park
+21,43,UCTY,DALY,Union City,Daly City
+21,44,UCTY,OAKL,Union City,Oakland City Center/12th St
+21,45,UCTY,WARM,Union City,Warm Springs/South Fremont
+21,46,UCTY,MLPT,Union City,Milpitas
+21,47,UCTY,BERY,Union City,Berryessa/North San Jose
+21,48,UCTY,PCTR,Union City,Pittsburg Center
+21,49,UCTY,ANTC,Union City,Antioch
+22,0,FRMT,SSAN,Fremont,South San Francisco
+22,1,FRMT,SBRN,Fremont,San Bruno
+22,2,FRMT,SFIA,Fremont,San Francisco International Airport
+22,3,FRMT,MLBR,Fremont,Millbrae
+22,4,FRMT,WDUB,Fremont,West Dublin/Pleasanton
+22,5,FRMT,RICH,Fremont,Richmond
+22,6,FRMT,DELN,Fremont,Del Norte
+22,7,FRMT,PLZA,Fremont,El Cerrito Plaza
+22,8,FRMT,NBRK,Fremont,North Berkeley
+22,9,FRMT,DBRK,Fremont,Downtown Berkeley
+22,10,FRMT,ASHB,Fremont,Ashby
+22,11,FRMT,MCAR,Fremont,MacArthur
+22,12,FRMT,19TH,Fremont,19th Street Oakland
+22,13,FRMT,12TH,Fremont,12th Street Oakland
+22,14,FRMT,LAKE,Fremont,Lake Merritt
+22,15,FRMT,FTVL,Fremont,Fruitvale
+22,16,FRMT,COLS,Fremont,Coliseum
+22,17,FRMT,SANL,Fremont,San Leandro
+22,18,FRMT,BAYF,Fremont,Bay Fair
+22,19,FRMT,HAYW,Fremont,Hayward
+22,20,FRMT,SHAY,Fremont,South Hayward
+22,21,FRMT,UCTY,Fremont,Union City
+22,22,FRMT,FRMT,Fremont,Fremont
+22,23,FRMT,CAST,Fremont,Castro Valley
+22,24,FRMT,DUBL,Fremont,Dublin/Pleasanton
+22,25,FRMT,PITT,Fremont,Pittsburg/Bay Point
+22,26,FRMT,NCON,Fremont,North Concord/Martinez
+22,27,FRMT,COLM,Fremont,Colma
+22,28,FRMT,CONC,Fremont,Concord
+22,29,FRMT,PHIL,Fremont,Pleasant Hill
+22,30,FRMT,WCRK,Fremont,Walnut Creek
+22,31,FRMT,LAFY,Fremont,Lafayette
+22,32,FRMT,ORIN,Fremont,Orinda
+22,33,FRMT,ROCK,Fremont,Rockridge
+22,34,FRMT,WOAK,Fremont,West Oakland
+22,35,FRMT,EMBR,Fremont,Embarcadero
+22,36,FRMT,MONT,Fremont,Montgomery Street
+22,37,FRMT,POWL,Fremont,Powell Street
+22,38,FRMT,CIVC,Fremont,Civic Center
+22,39,FRMT,16TH,Fremont,16th Street Mission
+22,40,FRMT,24TH,Fremont,24th Street Mission
+22,41,FRMT,GLEN,Fremont,Glen Park
+22,42,FRMT,BALB,Fremont,Balboa Park
+22,43,FRMT,DALY,Fremont,Daly City
+22,44,FRMT,OAKL,Fremont,Oakland City Center/12th St
+22,45,FRMT,WARM,Fremont,Warm Springs/South Fremont
+22,46,FRMT,MLPT,Fremont,Milpitas
+22,47,FRMT,BERY,Fremont,Berryessa/North San Jose
+22,48,FRMT,PCTR,Fremont,Pittsburg Center
+22,49,FRMT,ANTC,Fremont,Antioch
+23,0,CAST,SSAN,Castro Valley,South San Francisco
+23,1,CAST,SBRN,Castro Valley,San Bruno
+23,2,CAST,SFIA,Castro Valley,San Francisco International Airport
+23,3,CAST,MLBR,Castro Valley,Millbrae
+23,4,CAST,WDUB,Castro Valley,West Dublin/Pleasanton
+23,5,CAST,RICH,Castro Valley,Richmond
+23,6,CAST,DELN,Castro Valley,Del Norte
+23,7,CAST,PLZA,Castro Valley,El Cerrito Plaza
+23,8,CAST,NBRK,Castro Valley,North Berkeley
+23,9,CAST,DBRK,Castro Valley,Downtown Berkeley
+23,10,CAST,ASHB,Castro Valley,Ashby
+23,11,CAST,MCAR,Castro Valley,MacArthur
+23,12,CAST,19TH,Castro Valley,19th Street Oakland
+23,13,CAST,12TH,Castro Valley,12th Street Oakland
+23,14,CAST,LAKE,Castro Valley,Lake Merritt
+23,15,CAST,FTVL,Castro Valley,Fruitvale
+23,16,CAST,COLS,Castro Valley,Coliseum
+23,17,CAST,SANL,Castro Valley,San Leandro
+23,18,CAST,BAYF,Castro Valley,Bay Fair
+23,19,CAST,HAYW,Castro Valley,Hayward
+23,20,CAST,SHAY,Castro Valley,South Hayward
+23,21,CAST,UCTY,Castro Valley,Union City
+23,22,CAST,FRMT,Castro Valley,Fremont
+23,23,CAST,CAST,Castro Valley,Castro Valley
+23,24,CAST,DUBL,Castro Valley,Dublin/Pleasanton
+23,25,CAST,PITT,Castro Valley,Pittsburg/Bay Point
+23,26,CAST,NCON,Castro Valley,North Concord/Martinez
+23,27,CAST,COLM,Castro Valley,Colma
+23,28,CAST,CONC,Castro Valley,Concord
+23,29,CAST,PHIL,Castro Valley,Pleasant Hill
+23,30,CAST,WCRK,Castro Valley,Walnut Creek
+23,31,CAST,LAFY,Castro Valley,Lafayette
+23,32,CAST,ORIN,Castro Valley,Orinda
+23,33,CAST,ROCK,Castro Valley,Rockridge
+23,34,CAST,WOAK,Castro Valley,West Oakland
+23,35,CAST,EMBR,Castro Valley,Embarcadero
+23,36,CAST,MONT,Castro Valley,Montgomery Street
+23,37,CAST,POWL,Castro Valley,Powell Street
+23,38,CAST,CIVC,Castro Valley,Civic Center
+23,39,CAST,16TH,Castro Valley,16th Street Mission
+23,40,CAST,24TH,Castro Valley,24th Street Mission
+23,41,CAST,GLEN,Castro Valley,Glen Park
+23,42,CAST,BALB,Castro Valley,Balboa Park
+23,43,CAST,DALY,Castro Valley,Daly City
+23,44,CAST,OAKL,Castro Valley,Oakland City Center/12th St
+23,45,CAST,WARM,Castro Valley,Warm Springs/South Fremont
+23,46,CAST,MLPT,Castro Valley,Milpitas
+23,47,CAST,BERY,Castro Valley,Berryessa/North San Jose
+23,48,CAST,PCTR,Castro Valley,Pittsburg Center
+23,49,CAST,ANTC,Castro Valley,Antioch
+24,0,DUBL,SSAN,Dublin/Pleasanton,South San Francisco
+24,1,DUBL,SBRN,Dublin/Pleasanton,San Bruno
+24,2,DUBL,SFIA,Dublin/Pleasanton,San Francisco International Airport
+24,3,DUBL,MLBR,Dublin/Pleasanton,Millbrae
+24,4,DUBL,WDUB,Dublin/Pleasanton,West Dublin/Pleasanton
+24,5,DUBL,RICH,Dublin/Pleasanton,Richmond
+24,6,DUBL,DELN,Dublin/Pleasanton,Del Norte
+24,7,DUBL,PLZA,Dublin/Pleasanton,El Cerrito Plaza
+24,8,DUBL,NBRK,Dublin/Pleasanton,North Berkeley
+24,9,DUBL,DBRK,Dublin/Pleasanton,Downtown Berkeley
+24,10,DUBL,ASHB,Dublin/Pleasanton,Ashby
+24,11,DUBL,MCAR,Dublin/Pleasanton,MacArthur
+24,12,DUBL,19TH,Dublin/Pleasanton,19th Street Oakland
+24,13,DUBL,12TH,Dublin/Pleasanton,12th Street Oakland
+24,14,DUBL,LAKE,Dublin/Pleasanton,Lake Merritt
+24,15,DUBL,FTVL,Dublin/Pleasanton,Fruitvale
+24,16,DUBL,COLS,Dublin/Pleasanton,Coliseum
+24,17,DUBL,SANL,Dublin/Pleasanton,San Leandro
+24,18,DUBL,BAYF,Dublin/Pleasanton,Bay Fair
+24,19,DUBL,HAYW,Dublin/Pleasanton,Hayward
+24,20,DUBL,SHAY,Dublin/Pleasanton,South Hayward
+24,21,DUBL,UCTY,Dublin/Pleasanton,Union City
+24,22,DUBL,FRMT,Dublin/Pleasanton,Fremont
+24,23,DUBL,CAST,Dublin/Pleasanton,Castro Valley
+24,24,DUBL,DUBL,Dublin/Pleasanton,Dublin/Pleasanton
+24,25,DUBL,PITT,Dublin/Pleasanton,Pittsburg/Bay Point
+24,26,DUBL,NCON,Dublin/Pleasanton,North Concord/Martinez
+24,27,DUBL,COLM,Dublin/Pleasanton,Colma
+24,28,DUBL,CONC,Dublin/Pleasanton,Concord
+24,29,DUBL,PHIL,Dublin/Pleasanton,Pleasant Hill
+24,30,DUBL,WCRK,Dublin/Pleasanton,Walnut Creek
+24,31,DUBL,LAFY,Dublin/Pleasanton,Lafayette
+24,32,DUBL,ORIN,Dublin/Pleasanton,Orinda
+24,33,DUBL,ROCK,Dublin/Pleasanton,Rockridge
+24,34,DUBL,WOAK,Dublin/Pleasanton,West Oakland
+24,35,DUBL,EMBR,Dublin/Pleasanton,Embarcadero
+24,36,DUBL,MONT,Dublin/Pleasanton,Montgomery Street
+24,37,DUBL,POWL,Dublin/Pleasanton,Powell Street
+24,38,DUBL,CIVC,Dublin/Pleasanton,Civic Center
+24,39,DUBL,16TH,Dublin/Pleasanton,16th Street Mission
+24,40,DUBL,24TH,Dublin/Pleasanton,24th Street Mission
+24,41,DUBL,GLEN,Dublin/Pleasanton,Glen Park
+24,42,DUBL,BALB,Dublin/Pleasanton,Balboa Park
+24,43,DUBL,DALY,Dublin/Pleasanton,Daly City
+24,44,DUBL,OAKL,Dublin/Pleasanton,Oakland City Center/12th St
+24,45,DUBL,WARM,Dublin/Pleasanton,Warm Springs/South Fremont
+24,46,DUBL,MLPT,Dublin/Pleasanton,Milpitas
+24,47,DUBL,BERY,Dublin/Pleasanton,Berryessa/North San Jose
+24,48,DUBL,PCTR,Dublin/Pleasanton,Pittsburg Center
+24,49,DUBL,ANTC,Dublin/Pleasanton,Antioch
+25,0,PITT,SSAN,Pittsburg/Bay Point,South San Francisco
+25,1,PITT,SBRN,Pittsburg/Bay Point,San Bruno
+25,2,PITT,SFIA,Pittsburg/Bay Point,San Francisco International Airport
+25,3,PITT,MLBR,Pittsburg/Bay Point,Millbrae
+25,4,PITT,WDUB,Pittsburg/Bay Point,West Dublin/Pleasanton
+25,5,PITT,RICH,Pittsburg/Bay Point,Richmond
+25,6,PITT,DELN,Pittsburg/Bay Point,Del Norte
+25,7,PITT,PLZA,Pittsburg/Bay Point,El Cerrito Plaza
+25,8,PITT,NBRK,Pittsburg/Bay Point,North Berkeley
+25,9,PITT,DBRK,Pittsburg/Bay Point,Downtown Berkeley
+25,10,PITT,ASHB,Pittsburg/Bay Point,Ashby
+25,11,PITT,MCAR,Pittsburg/Bay Point,MacArthur
+25,12,PITT,19TH,Pittsburg/Bay Point,19th Street Oakland
+25,13,PITT,12TH,Pittsburg/Bay Point,12th Street Oakland
+25,14,PITT,LAKE,Pittsburg/Bay Point,Lake Merritt
+25,15,PITT,FTVL,Pittsburg/Bay Point,Fruitvale
+25,16,PITT,COLS,Pittsburg/Bay Point,Coliseum
+25,17,PITT,SANL,Pittsburg/Bay Point,San Leandro
+25,18,PITT,BAYF,Pittsburg/Bay Point,Bay Fair
+25,19,PITT,HAYW,Pittsburg/Bay Point,Hayward
+25,20,PITT,SHAY,Pittsburg/Bay Point,South Hayward
+25,21,PITT,UCTY,Pittsburg/Bay Point,Union City
+25,22,PITT,FRMT,Pittsburg/Bay Point,Fremont
+25,23,PITT,CAST,Pittsburg/Bay Point,Castro Valley
+25,24,PITT,DUBL,Pittsburg/Bay Point,Dublin/Pleasanton
+25,25,PITT,PITT,Pittsburg/Bay Point,Pittsburg/Bay Point
+25,26,PITT,NCON,Pittsburg/Bay Point,North Concord/Martinez
+25,27,PITT,COLM,Pittsburg/Bay Point,Colma
+25,28,PITT,CONC,Pittsburg/Bay Point,Concord
+25,29,PITT,PHIL,Pittsburg/Bay Point,Pleasant Hill
+25,30,PITT,WCRK,Pittsburg/Bay Point,Walnut Creek
+25,31,PITT,LAFY,Pittsburg/Bay Point,Lafayette
+25,32,PITT,ORIN,Pittsburg/Bay Point,Orinda
+25,33,PITT,ROCK,Pittsburg/Bay Point,Rockridge
+25,34,PITT,WOAK,Pittsburg/Bay Point,West Oakland
+25,35,PITT,EMBR,Pittsburg/Bay Point,Embarcadero
+25,36,PITT,MONT,Pittsburg/Bay Point,Montgomery Street
+25,37,PITT,POWL,Pittsburg/Bay Point,Powell Street
+25,38,PITT,CIVC,Pittsburg/Bay Point,Civic Center
+25,39,PITT,16TH,Pittsburg/Bay Point,16th Street Mission
+25,40,PITT,24TH,Pittsburg/Bay Point,24th Street Mission
+25,41,PITT,GLEN,Pittsburg/Bay Point,Glen Park
+25,42,PITT,BALB,Pittsburg/Bay Point,Balboa Park
+25,43,PITT,DALY,Pittsburg/Bay Point,Daly City
+25,44,PITT,OAKL,Pittsburg/Bay Point,Oakland City Center/12th St
+25,45,PITT,WARM,Pittsburg/Bay Point,Warm Springs/South Fremont
+25,46,PITT,MLPT,Pittsburg/Bay Point,Milpitas
+25,47,PITT,BERY,Pittsburg/Bay Point,Berryessa/North San Jose
+25,48,PITT,PCTR,Pittsburg/Bay Point,Pittsburg Center
+25,49,PITT,ANTC,Pittsburg/Bay Point,Antioch
+26,0,NCON,SSAN,North Concord/Martinez,South San Francisco
+26,1,NCON,SBRN,North Concord/Martinez,San Bruno
+26,2,NCON,SFIA,North Concord/Martinez,San Francisco International Airport
+26,3,NCON,MLBR,North Concord/Martinez,Millbrae
+26,4,NCON,WDUB,North Concord/Martinez,West Dublin/Pleasanton
+26,5,NCON,RICH,North Concord/Martinez,Richmond
+26,6,NCON,DELN,North Concord/Martinez,Del Norte
+26,7,NCON,PLZA,North Concord/Martinez,El Cerrito Plaza
+26,8,NCON,NBRK,North Concord/Martinez,North Berkeley
+26,9,NCON,DBRK,North Concord/Martinez,Downtown Berkeley
+26,10,NCON,ASHB,North Concord/Martinez,Ashby
+26,11,NCON,MCAR,North Concord/Martinez,MacArthur
+26,12,NCON,19TH,North Concord/Martinez,19th Street Oakland
+26,13,NCON,12TH,North Concord/Martinez,12th Street Oakland
+26,14,NCON,LAKE,North Concord/Martinez,Lake Merritt
+26,15,NCON,FTVL,North Concord/Martinez,Fruitvale
+26,16,NCON,COLS,North Concord/Martinez,Coliseum
+26,17,NCON,SANL,North Concord/Martinez,San Leandro
+26,18,NCON,BAYF,North Concord/Martinez,Bay Fair
+26,19,NCON,HAYW,North Concord/Martinez,Hayward
+26,20,NCON,SHAY,North Concord/Martinez,South Hayward
+26,21,NCON,UCTY,North Concord/Martinez,Union City
+26,22,NCON,FRMT,North Concord/Martinez,Fremont
+26,23,NCON,CAST,North Concord/Martinez,Castro Valley
+26,24,NCON,DUBL,North Concord/Martinez,Dublin/Pleasanton
+26,25,NCON,PITT,North Concord/Martinez,Pittsburg/Bay Point
+26,26,NCON,NCON,North Concord/Martinez,North Concord/Martinez
+26,27,NCON,COLM,North Concord/Martinez,Colma
+26,28,NCON,CONC,North Concord/Martinez,Concord
+26,29,NCON,PHIL,North Concord/Martinez,Pleasant Hill
+26,30,NCON,WCRK,North Concord/Martinez,Walnut Creek
+26,31,NCON,LAFY,North Concord/Martinez,Lafayette
+26,32,NCON,ORIN,North Concord/Martinez,Orinda
+26,33,NCON,ROCK,North Concord/Martinez,Rockridge
+26,34,NCON,WOAK,North Concord/Martinez,West Oakland
+26,35,NCON,EMBR,North Concord/Martinez,Embarcadero
+26,36,NCON,MONT,North Concord/Martinez,Montgomery Street
+26,37,NCON,POWL,North Concord/Martinez,Powell Street
+26,38,NCON,CIVC,North Concord/Martinez,Civic Center
+26,39,NCON,16TH,North Concord/Martinez,16th Street Mission
+26,40,NCON,24TH,North Concord/Martinez,24th Street Mission
+26,41,NCON,GLEN,North Concord/Martinez,Glen Park
+26,42,NCON,BALB,North Concord/Martinez,Balboa Park
+26,43,NCON,DALY,North Concord/Martinez,Daly City
+26,44,NCON,OAKL,North Concord/Martinez,Oakland City Center/12th St
+26,45,NCON,WARM,North Concord/Martinez,Warm Springs/South Fremont
+26,46,NCON,MLPT,North Concord/Martinez,Milpitas
+26,47,NCON,BERY,North Concord/Martinez,Berryessa/North San Jose
+26,48,NCON,PCTR,North Concord/Martinez,Pittsburg Center
+26,49,NCON,ANTC,North Concord/Martinez,Antioch
+27,0,COLM,SSAN,Colma,South San Francisco
+27,1,COLM,SBRN,Colma,San Bruno
+27,2,COLM,SFIA,Colma,San Francisco International Airport
+27,3,COLM,MLBR,Colma,Millbrae
+27,4,COLM,WDUB,Colma,West Dublin/Pleasanton
+27,5,COLM,RICH,Colma,Richmond
+27,6,COLM,DELN,Colma,Del Norte
+27,7,COLM,PLZA,Colma,El Cerrito Plaza
+27,8,COLM,NBRK,Colma,North Berkeley
+27,9,COLM,DBRK,Colma,Downtown Berkeley
+27,10,COLM,ASHB,Colma,Ashby
+27,11,COLM,MCAR,Colma,MacArthur
+27,12,COLM,19TH,Colma,19th Street Oakland
+27,13,COLM,12TH,Colma,12th Street Oakland
+27,14,COLM,LAKE,Colma,Lake Merritt
+27,15,COLM,FTVL,Colma,Fruitvale
+27,16,COLM,COLS,Colma,Coliseum
+27,17,COLM,SANL,Colma,San Leandro
+27,18,COLM,BAYF,Colma,Bay Fair
+27,19,COLM,HAYW,Colma,Hayward
+27,20,COLM,SHAY,Colma,South Hayward
+27,21,COLM,UCTY,Colma,Union City
+27,22,COLM,FRMT,Colma,Fremont
+27,23,COLM,CAST,Colma,Castro Valley
+27,24,COLM,DUBL,Colma,Dublin/Pleasanton
+27,25,COLM,PITT,Colma,Pittsburg/Bay Point
+27,26,COLM,NCON,Colma,North Concord/Martinez
+27,27,COLM,COLM,Colma,Colma
+27,28,COLM,CONC,Colma,Concord
+27,29,COLM,PHIL,Colma,Pleasant Hill
+27,30,COLM,WCRK,Colma,Walnut Creek
+27,31,COLM,LAFY,Colma,Lafayette
+27,32,COLM,ORIN,Colma,Orinda
+27,33,COLM,ROCK,Colma,Rockridge
+27,34,COLM,WOAK,Colma,West Oakland
+27,35,COLM,EMBR,Colma,Embarcadero
+27,36,COLM,MONT,Colma,Montgomery Street
+27,37,COLM,POWL,Colma,Powell Street
+27,38,COLM,CIVC,Colma,Civic Center
+27,39,COLM,16TH,Colma,16th Street Mission
+27,40,COLM,24TH,Colma,24th Street Mission
+27,41,COLM,GLEN,Colma,Glen Park
+27,42,COLM,BALB,Colma,Balboa Park
+27,43,COLM,DALY,Colma,Daly City
+27,44,COLM,OAKL,Colma,Oakland City Center/12th St
+27,45,COLM,WARM,Colma,Warm Springs/South Fremont
+27,46,COLM,MLPT,Colma,Milpitas
+27,47,COLM,BERY,Colma,Berryessa/North San Jose
+27,48,COLM,PCTR,Colma,Pittsburg Center
+27,49,COLM,ANTC,Colma,Antioch
+28,0,CONC,SSAN,Concord,South San Francisco
+28,1,CONC,SBRN,Concord,San Bruno
+28,2,CONC,SFIA,Concord,San Francisco International Airport
+28,3,CONC,MLBR,Concord,Millbrae
+28,4,CONC,WDUB,Concord,West Dublin/Pleasanton
+28,5,CONC,RICH,Concord,Richmond
+28,6,CONC,DELN,Concord,Del Norte
+28,7,CONC,PLZA,Concord,El Cerrito Plaza
+28,8,CONC,NBRK,Concord,North Berkeley
+28,9,CONC,DBRK,Concord,Downtown Berkeley
+28,10,CONC,ASHB,Concord,Ashby
+28,11,CONC,MCAR,Concord,MacArthur
+28,12,CONC,19TH,Concord,19th Street Oakland
+28,13,CONC,12TH,Concord,12th Street Oakland
+28,14,CONC,LAKE,Concord,Lake Merritt
+28,15,CONC,FTVL,Concord,Fruitvale
+28,16,CONC,COLS,Concord,Coliseum
+28,17,CONC,SANL,Concord,San Leandro
+28,18,CONC,BAYF,Concord,Bay Fair
+28,19,CONC,HAYW,Concord,Hayward
+28,20,CONC,SHAY,Concord,South Hayward
+28,21,CONC,UCTY,Concord,Union City
+28,22,CONC,FRMT,Concord,Fremont
+28,23,CONC,CAST,Concord,Castro Valley
+28,24,CONC,DUBL,Concord,Dublin/Pleasanton
+28,25,CONC,PITT,Concord,Pittsburg/Bay Point
+28,26,CONC,NCON,Concord,North Concord/Martinez
+28,27,CONC,COLM,Concord,Colma
+28,28,CONC,CONC,Concord,Concord
+28,29,CONC,PHIL,Concord,Pleasant Hill
+28,30,CONC,WCRK,Concord,Walnut Creek
+28,31,CONC,LAFY,Concord,Lafayette
+28,32,CONC,ORIN,Concord,Orinda
+28,33,CONC,ROCK,Concord,Rockridge
+28,34,CONC,WOAK,Concord,West Oakland
+28,35,CONC,EMBR,Concord,Embarcadero
+28,36,CONC,MONT,Concord,Montgomery Street
+28,37,CONC,POWL,Concord,Powell Street
+28,38,CONC,CIVC,Concord,Civic Center
+28,39,CONC,16TH,Concord,16th Street Mission
+28,40,CONC,24TH,Concord,24th Street Mission
+28,41,CONC,GLEN,Concord,Glen Park
+28,42,CONC,BALB,Concord,Balboa Park
+28,43,CONC,DALY,Concord,Daly City
+28,44,CONC,OAKL,Concord,Oakland City Center/12th St
+28,45,CONC,WARM,Concord,Warm Springs/South Fremont
+28,46,CONC,MLPT,Concord,Milpitas
+28,47,CONC,BERY,Concord,Berryessa/North San Jose
+28,48,CONC,PCTR,Concord,Pittsburg Center
+28,49,CONC,ANTC,Concord,Antioch
+29,0,PHIL,SSAN,Pleasant Hill,South San Francisco
+29,1,PHIL,SBRN,Pleasant Hill,San Bruno
+29,2,PHIL,SFIA,Pleasant Hill,San Francisco International Airport
+29,3,PHIL,MLBR,Pleasant Hill,Millbrae
+29,4,PHIL,WDUB,Pleasant Hill,West Dublin/Pleasanton
+29,5,PHIL,RICH,Pleasant Hill,Richmond
+29,6,PHIL,DELN,Pleasant Hill,Del Norte
+29,7,PHIL,PLZA,Pleasant Hill,El Cerrito Plaza
+29,8,PHIL,NBRK,Pleasant Hill,North Berkeley
+29,9,PHIL,DBRK,Pleasant Hill,Downtown Berkeley
+29,10,PHIL,ASHB,Pleasant Hill,Ashby
+29,11,PHIL,MCAR,Pleasant Hill,MacArthur
+29,12,PHIL,19TH,Pleasant Hill,19th Street Oakland
+29,13,PHIL,12TH,Pleasant Hill,12th Street Oakland
+29,14,PHIL,LAKE,Pleasant Hill,Lake Merritt
+29,15,PHIL,FTVL,Pleasant Hill,Fruitvale
+29,16,PHIL,COLS,Pleasant Hill,Coliseum
+29,17,PHIL,SANL,Pleasant Hill,San Leandro
+29,18,PHIL,BAYF,Pleasant Hill,Bay Fair
+29,19,PHIL,HAYW,Pleasant Hill,Hayward
+29,20,PHIL,SHAY,Pleasant Hill,South Hayward
+29,21,PHIL,UCTY,Pleasant Hill,Union City
+29,22,PHIL,FRMT,Pleasant Hill,Fremont
+29,23,PHIL,CAST,Pleasant Hill,Castro Valley
+29,24,PHIL,DUBL,Pleasant Hill,Dublin/Pleasanton
+29,25,PHIL,PITT,Pleasant Hill,Pittsburg/Bay Point
+29,26,PHIL,NCON,Pleasant Hill,North Concord/Martinez
+29,27,PHIL,COLM,Pleasant Hill,Colma
+29,28,PHIL,CONC,Pleasant Hill,Concord
+29,29,PHIL,PHIL,Pleasant Hill,Pleasant Hill
+29,30,PHIL,WCRK,Pleasant Hill,Walnut Creek
+29,31,PHIL,LAFY,Pleasant Hill,Lafayette
+29,32,PHIL,ORIN,Pleasant Hill,Orinda
+29,33,PHIL,ROCK,Pleasant Hill,Rockridge
+29,34,PHIL,WOAK,Pleasant Hill,West Oakland
+29,35,PHIL,EMBR,Pleasant Hill,Embarcadero
+29,36,PHIL,MONT,Pleasant Hill,Montgomery Street
+29,37,PHIL,POWL,Pleasant Hill,Powell Street
+29,38,PHIL,CIVC,Pleasant Hill,Civic Center
+29,39,PHIL,16TH,Pleasant Hill,16th Street Mission
+29,40,PHIL,24TH,Pleasant Hill,24th Street Mission
+29,41,PHIL,GLEN,Pleasant Hill,Glen Park
+29,42,PHIL,BALB,Pleasant Hill,Balboa Park
+29,43,PHIL,DALY,Pleasant Hill,Daly City
+29,44,PHIL,OAKL,Pleasant Hill,Oakland City Center/12th St
+29,45,PHIL,WARM,Pleasant Hill,Warm Springs/South Fremont
+29,46,PHIL,MLPT,Pleasant Hill,Milpitas
+29,47,PHIL,BERY,Pleasant Hill,Berryessa/North San Jose
+29,48,PHIL,PCTR,Pleasant Hill,Pittsburg Center
+29,49,PHIL,ANTC,Pleasant Hill,Antioch
+30,0,WCRK,SSAN,Walnut Creek,South San Francisco
+30,1,WCRK,SBRN,Walnut Creek,San Bruno
+30,2,WCRK,SFIA,Walnut Creek,San Francisco International Airport
+30,3,WCRK,MLBR,Walnut Creek,Millbrae
+30,4,WCRK,WDUB,Walnut Creek,West Dublin/Pleasanton
+30,5,WCRK,RICH,Walnut Creek,Richmond
+30,6,WCRK,DELN,Walnut Creek,Del Norte
+30,7,WCRK,PLZA,Walnut Creek,El Cerrito Plaza
+30,8,WCRK,NBRK,Walnut Creek,North Berkeley
+30,9,WCRK,DBRK,Walnut Creek,Downtown Berkeley
+30,10,WCRK,ASHB,Walnut Creek,Ashby
+30,11,WCRK,MCAR,Walnut Creek,MacArthur
+30,12,WCRK,19TH,Walnut Creek,19th Street Oakland
+30,13,WCRK,12TH,Walnut Creek,12th Street Oakland
+30,14,WCRK,LAKE,Walnut Creek,Lake Merritt
+30,15,WCRK,FTVL,Walnut Creek,Fruitvale
+30,16,WCRK,COLS,Walnut Creek,Coliseum
+30,17,WCRK,SANL,Walnut Creek,San Leandro
+30,18,WCRK,BAYF,Walnut Creek,Bay Fair
+30,19,WCRK,HAYW,Walnut Creek,Hayward
+30,20,WCRK,SHAY,Walnut Creek,South Hayward
+30,21,WCRK,UCTY,Walnut Creek,Union City
+30,22,WCRK,FRMT,Walnut Creek,Fremont
+30,23,WCRK,CAST,Walnut Creek,Castro Valley
+30,24,WCRK,DUBL,Walnut Creek,Dublin/Pleasanton
+30,25,WCRK,PITT,Walnut Creek,Pittsburg/Bay Point
+30,26,WCRK,NCON,Walnut Creek,North Concord/Martinez
+30,27,WCRK,COLM,Walnut Creek,Colma
+30,28,WCRK,CONC,Walnut Creek,Concord
+30,29,WCRK,PHIL,Walnut Creek,Pleasant Hill
+30,30,WCRK,WCRK,Walnut Creek,Walnut Creek
+30,31,WCRK,LAFY,Walnut Creek,Lafayette
+30,32,WCRK,ORIN,Walnut Creek,Orinda
+30,33,WCRK,ROCK,Walnut Creek,Rockridge
+30,34,WCRK,WOAK,Walnut Creek,West Oakland
+30,35,WCRK,EMBR,Walnut Creek,Embarcadero
+30,36,WCRK,MONT,Walnut Creek,Montgomery Street
+30,37,WCRK,POWL,Walnut Creek,Powell Street
+30,38,WCRK,CIVC,Walnut Creek,Civic Center
+30,39,WCRK,16TH,Walnut Creek,16th Street Mission
+30,40,WCRK,24TH,Walnut Creek,24th Street Mission
+30,41,WCRK,GLEN,Walnut Creek,Glen Park
+30,42,WCRK,BALB,Walnut Creek,Balboa Park
+30,43,WCRK,DALY,Walnut Creek,Daly City
+30,44,WCRK,OAKL,Walnut Creek,Oakland City Center/12th St
+30,45,WCRK,WARM,Walnut Creek,Warm Springs/South Fremont
+30,46,WCRK,MLPT,Walnut Creek,Milpitas
+30,47,WCRK,BERY,Walnut Creek,Berryessa/North San Jose
+30,48,WCRK,PCTR,Walnut Creek,Pittsburg Center
+30,49,WCRK,ANTC,Walnut Creek,Antioch
+31,0,LAFY,SSAN,Lafayette,South San Francisco
+31,1,LAFY,SBRN,Lafayette,San Bruno
+31,2,LAFY,SFIA,Lafayette,San Francisco International Airport
+31,3,LAFY,MLBR,Lafayette,Millbrae
+31,4,LAFY,WDUB,Lafayette,West Dublin/Pleasanton
+31,5,LAFY,RICH,Lafayette,Richmond
+31,6,LAFY,DELN,Lafayette,Del Norte
+31,7,LAFY,PLZA,Lafayette,El Cerrito Plaza
+31,8,LAFY,NBRK,Lafayette,North Berkeley
+31,9,LAFY,DBRK,Lafayette,Downtown Berkeley
+31,10,LAFY,ASHB,Lafayette,Ashby
+31,11,LAFY,MCAR,Lafayette,MacArthur
+31,12,LAFY,19TH,Lafayette,19th Street Oakland
+31,13,LAFY,12TH,Lafayette,12th Street Oakland
+31,14,LAFY,LAKE,Lafayette,Lake Merritt
+31,15,LAFY,FTVL,Lafayette,Fruitvale
+31,16,LAFY,COLS,Lafayette,Coliseum
+31,17,LAFY,SANL,Lafayette,San Leandro
+31,18,LAFY,BAYF,Lafayette,Bay Fair
+31,19,LAFY,HAYW,Lafayette,Hayward
+31,20,LAFY,SHAY,Lafayette,South Hayward
+31,21,LAFY,UCTY,Lafayette,Union City
+31,22,LAFY,FRMT,Lafayette,Fremont
+31,23,LAFY,CAST,Lafayette,Castro Valley
+31,24,LAFY,DUBL,Lafayette,Dublin/Pleasanton
+31,25,LAFY,PITT,Lafayette,Pittsburg/Bay Point
+31,26,LAFY,NCON,Lafayette,North Concord/Martinez
+31,27,LAFY,COLM,Lafayette,Colma
+31,28,LAFY,CONC,Lafayette,Concord
+31,29,LAFY,PHIL,Lafayette,Pleasant Hill
+31,30,LAFY,WCRK,Lafayette,Walnut Creek
+31,31,LAFY,LAFY,Lafayette,Lafayette
+31,32,LAFY,ORIN,Lafayette,Orinda
+31,33,LAFY,ROCK,Lafayette,Rockridge
+31,34,LAFY,WOAK,Lafayette,West Oakland
+31,35,LAFY,EMBR,Lafayette,Embarcadero
+31,36,LAFY,MONT,Lafayette,Montgomery Street
+31,37,LAFY,POWL,Lafayette,Powell Street
+31,38,LAFY,CIVC,Lafayette,Civic Center
+31,39,LAFY,16TH,Lafayette,16th Street Mission
+31,40,LAFY,24TH,Lafayette,24th Street Mission
+31,41,LAFY,GLEN,Lafayette,Glen Park
+31,42,LAFY,BALB,Lafayette,Balboa Park
+31,43,LAFY,DALY,Lafayette,Daly City
+31,44,LAFY,OAKL,Lafayette,Oakland City Center/12th St
+31,45,LAFY,WARM,Lafayette,Warm Springs/South Fremont
+31,46,LAFY,MLPT,Lafayette,Milpitas
+31,47,LAFY,BERY,Lafayette,Berryessa/North San Jose
+31,48,LAFY,PCTR,Lafayette,Pittsburg Center
+31,49,LAFY,ANTC,Lafayette,Antioch
+32,0,ORIN,SSAN,Orinda,South San Francisco
+32,1,ORIN,SBRN,Orinda,San Bruno
+32,2,ORIN,SFIA,Orinda,San Francisco International Airport
+32,3,ORIN,MLBR,Orinda,Millbrae
+32,4,ORIN,WDUB,Orinda,West Dublin/Pleasanton
+32,5,ORIN,RICH,Orinda,Richmond
+32,6,ORIN,DELN,Orinda,Del Norte
+32,7,ORIN,PLZA,Orinda,El Cerrito Plaza
+32,8,ORIN,NBRK,Orinda,North Berkeley
+32,9,ORIN,DBRK,Orinda,Downtown Berkeley
+32,10,ORIN,ASHB,Orinda,Ashby
+32,11,ORIN,MCAR,Orinda,MacArthur
+32,12,ORIN,19TH,Orinda,19th Street Oakland
+32,13,ORIN,12TH,Orinda,12th Street Oakland
+32,14,ORIN,LAKE,Orinda,Lake Merritt
+32,15,ORIN,FTVL,Orinda,Fruitvale
+32,16,ORIN,COLS,Orinda,Coliseum
+32,17,ORIN,SANL,Orinda,San Leandro
+32,18,ORIN,BAYF,Orinda,Bay Fair
+32,19,ORIN,HAYW,Orinda,Hayward
+32,20,ORIN,SHAY,Orinda,South Hayward
+32,21,ORIN,UCTY,Orinda,Union City
+32,22,ORIN,FRMT,Orinda,Fremont
+32,23,ORIN,CAST,Orinda,Castro Valley
+32,24,ORIN,DUBL,Orinda,Dublin/Pleasanton
+32,25,ORIN,PITT,Orinda,Pittsburg/Bay Point
+32,26,ORIN,NCON,Orinda,North Concord/Martinez
+32,27,ORIN,COLM,Orinda,Colma
+32,28,ORIN,CONC,Orinda,Concord
+32,29,ORIN,PHIL,Orinda,Pleasant Hill
+32,30,ORIN,WCRK,Orinda,Walnut Creek
+32,31,ORIN,LAFY,Orinda,Lafayette
+32,32,ORIN,ORIN,Orinda,Orinda
+32,33,ORIN,ROCK,Orinda,Rockridge
+32,34,ORIN,WOAK,Orinda,West Oakland
+32,35,ORIN,EMBR,Orinda,Embarcadero
+32,36,ORIN,MONT,Orinda,Montgomery Street
+32,37,ORIN,POWL,Orinda,Powell Street
+32,38,ORIN,CIVC,Orinda,Civic Center
+32,39,ORIN,16TH,Orinda,16th Street Mission
+32,40,ORIN,24TH,Orinda,24th Street Mission
+32,41,ORIN,GLEN,Orinda,Glen Park
+32,42,ORIN,BALB,Orinda,Balboa Park
+32,43,ORIN,DALY,Orinda,Daly City
+32,44,ORIN,OAKL,Orinda,Oakland City Center/12th St
+32,45,ORIN,WARM,Orinda,Warm Springs/South Fremont
+32,46,ORIN,MLPT,Orinda,Milpitas
+32,47,ORIN,BERY,Orinda,Berryessa/North San Jose
+32,48,ORIN,PCTR,Orinda,Pittsburg Center
+32,49,ORIN,ANTC,Orinda,Antioch
+33,0,ROCK,SSAN,Rockridge,South San Francisco
+33,1,ROCK,SBRN,Rockridge,San Bruno
+33,2,ROCK,SFIA,Rockridge,San Francisco International Airport
+33,3,ROCK,MLBR,Rockridge,Millbrae
+33,4,ROCK,WDUB,Rockridge,West Dublin/Pleasanton
+33,5,ROCK,RICH,Rockridge,Richmond
+33,6,ROCK,DELN,Rockridge,Del Norte
+33,7,ROCK,PLZA,Rockridge,El Cerrito Plaza
+33,8,ROCK,NBRK,Rockridge,North Berkeley
+33,9,ROCK,DBRK,Rockridge,Downtown Berkeley
+33,10,ROCK,ASHB,Rockridge,Ashby
+33,11,ROCK,MCAR,Rockridge,MacArthur
+33,12,ROCK,19TH,Rockridge,19th Street Oakland
+33,13,ROCK,12TH,Rockridge,12th Street Oakland
+33,14,ROCK,LAKE,Rockridge,Lake Merritt
+33,15,ROCK,FTVL,Rockridge,Fruitvale
+33,16,ROCK,COLS,Rockridge,Coliseum
+33,17,ROCK,SANL,Rockridge,San Leandro
+33,18,ROCK,BAYF,Rockridge,Bay Fair
+33,19,ROCK,HAYW,Rockridge,Hayward
+33,20,ROCK,SHAY,Rockridge,South Hayward
+33,21,ROCK,UCTY,Rockridge,Union City
+33,22,ROCK,FRMT,Rockridge,Fremont
+33,23,ROCK,CAST,Rockridge,Castro Valley
+33,24,ROCK,DUBL,Rockridge,Dublin/Pleasanton
+33,25,ROCK,PITT,Rockridge,Pittsburg/Bay Point
+33,26,ROCK,NCON,Rockridge,North Concord/Martinez
+33,27,ROCK,COLM,Rockridge,Colma
+33,28,ROCK,CONC,Rockridge,Concord
+33,29,ROCK,PHIL,Rockridge,Pleasant Hill
+33,30,ROCK,WCRK,Rockridge,Walnut Creek
+33,31,ROCK,LAFY,Rockridge,Lafayette
+33,32,ROCK,ORIN,Rockridge,Orinda
+33,33,ROCK,ROCK,Rockridge,Rockridge
+33,34,ROCK,WOAK,Rockridge,West Oakland
+33,35,ROCK,EMBR,Rockridge,Embarcadero
+33,36,ROCK,MONT,Rockridge,Montgomery Street
+33,37,ROCK,POWL,Rockridge,Powell Street
+33,38,ROCK,CIVC,Rockridge,Civic Center
+33,39,ROCK,16TH,Rockridge,16th Street Mission
+33,40,ROCK,24TH,Rockridge,24th Street Mission
+33,41,ROCK,GLEN,Rockridge,Glen Park
+33,42,ROCK,BALB,Rockridge,Balboa Park
+33,43,ROCK,DALY,Rockridge,Daly City
+33,44,ROCK,OAKL,Rockridge,Oakland City Center/12th St
+33,45,ROCK,WARM,Rockridge,Warm Springs/South Fremont
+33,46,ROCK,MLPT,Rockridge,Milpitas
+33,47,ROCK,BERY,Rockridge,Berryessa/North San Jose
+33,48,ROCK,PCTR,Rockridge,Pittsburg Center
+33,49,ROCK,ANTC,Rockridge,Antioch
+34,0,WOAK,SSAN,West Oakland,South San Francisco
+34,1,WOAK,SBRN,West Oakland,San Bruno
+34,2,WOAK,SFIA,West Oakland,San Francisco International Airport
+34,3,WOAK,MLBR,West Oakland,Millbrae
+34,4,WOAK,WDUB,West Oakland,West Dublin/Pleasanton
+34,5,WOAK,RICH,West Oakland,Richmond
+34,6,WOAK,DELN,West Oakland,Del Norte
+34,7,WOAK,PLZA,West Oakland,El Cerrito Plaza
+34,8,WOAK,NBRK,West Oakland,North Berkeley
+34,9,WOAK,DBRK,West Oakland,Downtown Berkeley
+34,10,WOAK,ASHB,West Oakland,Ashby
+34,11,WOAK,MCAR,West Oakland,MacArthur
+34,12,WOAK,19TH,West Oakland,19th Street Oakland
+34,13,WOAK,12TH,West Oakland,12th Street Oakland
+34,14,WOAK,LAKE,West Oakland,Lake Merritt
+34,15,WOAK,FTVL,West Oakland,Fruitvale
+34,16,WOAK,COLS,West Oakland,Coliseum
+34,17,WOAK,SANL,West Oakland,San Leandro
+34,18,WOAK,BAYF,West Oakland,Bay Fair
+34,19,WOAK,HAYW,West Oakland,Hayward
+34,20,WOAK,SHAY,West Oakland,South Hayward
+34,21,WOAK,UCTY,West Oakland,Union City
+34,22,WOAK,FRMT,West Oakland,Fremont
+34,23,WOAK,CAST,West Oakland,Castro Valley
+34,24,WOAK,DUBL,West Oakland,Dublin/Pleasanton
+34,25,WOAK,PITT,West Oakland,Pittsburg/Bay Point
+34,26,WOAK,NCON,West Oakland,North Concord/Martinez
+34,27,WOAK,COLM,West Oakland,Colma
+34,28,WOAK,CONC,West Oakland,Concord
+34,29,WOAK,PHIL,West Oakland,Pleasant Hill
+34,30,WOAK,WCRK,West Oakland,Walnut Creek
+34,31,WOAK,LAFY,West Oakland,Lafayette
+34,32,WOAK,ORIN,West Oakland,Orinda
+34,33,WOAK,ROCK,West Oakland,Rockridge
+34,34,WOAK,WOAK,West Oakland,West Oakland
+34,35,WOAK,EMBR,West Oakland,Embarcadero
+34,36,WOAK,MONT,West Oakland,Montgomery Street
+34,37,WOAK,POWL,West Oakland,Powell Street
+34,38,WOAK,CIVC,West Oakland,Civic Center
+34,39,WOAK,16TH,West Oakland,16th Street Mission
+34,40,WOAK,24TH,West Oakland,24th Street Mission
+34,41,WOAK,GLEN,West Oakland,Glen Park
+34,42,WOAK,BALB,West Oakland,Balboa Park
+34,43,WOAK,DALY,West Oakland,Daly City
+34,44,WOAK,OAKL,West Oakland,Oakland City Center/12th St
+34,45,WOAK,WARM,West Oakland,Warm Springs/South Fremont
+34,46,WOAK,MLPT,West Oakland,Milpitas
+34,47,WOAK,BERY,West Oakland,Berryessa/North San Jose
+34,48,WOAK,PCTR,West Oakland,Pittsburg Center
+34,49,WOAK,ANTC,West Oakland,Antioch
+35,0,EMBR,SSAN,Embarcadero,South San Francisco
+35,1,EMBR,SBRN,Embarcadero,San Bruno
+35,2,EMBR,SFIA,Embarcadero,San Francisco International Airport
+35,3,EMBR,MLBR,Embarcadero,Millbrae
+35,4,EMBR,WDUB,Embarcadero,West Dublin/Pleasanton
+35,5,EMBR,RICH,Embarcadero,Richmond
+35,6,EMBR,DELN,Embarcadero,Del Norte
+35,7,EMBR,PLZA,Embarcadero,El Cerrito Plaza
+35,8,EMBR,NBRK,Embarcadero,North Berkeley
+35,9,EMBR,DBRK,Embarcadero,Downtown Berkeley
+35,10,EMBR,ASHB,Embarcadero,Ashby
+35,11,EMBR,MCAR,Embarcadero,MacArthur
+35,12,EMBR,19TH,Embarcadero,19th Street Oakland
+35,13,EMBR,12TH,Embarcadero,12th Street Oakland
+35,14,EMBR,LAKE,Embarcadero,Lake Merritt
+35,15,EMBR,FTVL,Embarcadero,Fruitvale
+35,16,EMBR,COLS,Embarcadero,Coliseum
+35,17,EMBR,SANL,Embarcadero,San Leandro
+35,18,EMBR,BAYF,Embarcadero,Bay Fair
+35,19,EMBR,HAYW,Embarcadero,Hayward
+35,20,EMBR,SHAY,Embarcadero,South Hayward
+35,21,EMBR,UCTY,Embarcadero,Union City
+35,22,EMBR,FRMT,Embarcadero,Fremont
+35,23,EMBR,CAST,Embarcadero,Castro Valley
+35,24,EMBR,DUBL,Embarcadero,Dublin/Pleasanton
+35,25,EMBR,PITT,Embarcadero,Pittsburg/Bay Point
+35,26,EMBR,NCON,Embarcadero,North Concord/Martinez
+35,27,EMBR,COLM,Embarcadero,Colma
+35,28,EMBR,CONC,Embarcadero,Concord
+35,29,EMBR,PHIL,Embarcadero,Pleasant Hill
+35,30,EMBR,WCRK,Embarcadero,Walnut Creek
+35,31,EMBR,LAFY,Embarcadero,Lafayette
+35,32,EMBR,ORIN,Embarcadero,Orinda
+35,33,EMBR,ROCK,Embarcadero,Rockridge
+35,34,EMBR,WOAK,Embarcadero,West Oakland
+35,35,EMBR,EMBR,Embarcadero,Embarcadero
+35,36,EMBR,MONT,Embarcadero,Montgomery Street
+35,37,EMBR,POWL,Embarcadero,Powell Street
+35,38,EMBR,CIVC,Embarcadero,Civic Center
+35,39,EMBR,16TH,Embarcadero,16th Street Mission
+35,40,EMBR,24TH,Embarcadero,24th Street Mission
+35,41,EMBR,GLEN,Embarcadero,Glen Park
+35,42,EMBR,BALB,Embarcadero,Balboa Park
+35,43,EMBR,DALY,Embarcadero,Daly City
+35,44,EMBR,OAKL,Embarcadero,Oakland City Center/12th St
+35,45,EMBR,WARM,Embarcadero,Warm Springs/South Fremont
+35,46,EMBR,MLPT,Embarcadero,Milpitas
+35,47,EMBR,BERY,Embarcadero,Berryessa/North San Jose
+35,48,EMBR,PCTR,Embarcadero,Pittsburg Center
+35,49,EMBR,ANTC,Embarcadero,Antioch
+36,0,MONT,SSAN,Montgomery Street,South San Francisco
+36,1,MONT,SBRN,Montgomery Street,San Bruno
+36,2,MONT,SFIA,Montgomery Street,San Francisco International Airport
+36,3,MONT,MLBR,Montgomery Street,Millbrae
+36,4,MONT,WDUB,Montgomery Street,West Dublin/Pleasanton
+36,5,MONT,RICH,Montgomery Street,Richmond
+36,6,MONT,DELN,Montgomery Street,Del Norte
+36,7,MONT,PLZA,Montgomery Street,El Cerrito Plaza
+36,8,MONT,NBRK,Montgomery Street,North Berkeley
+36,9,MONT,DBRK,Montgomery Street,Downtown Berkeley
+36,10,MONT,ASHB,Montgomery Street,Ashby
+36,11,MONT,MCAR,Montgomery Street,MacArthur
+36,12,MONT,19TH,Montgomery Street,19th Street Oakland
+36,13,MONT,12TH,Montgomery Street,12th Street Oakland
+36,14,MONT,LAKE,Montgomery Street,Lake Merritt
+36,15,MONT,FTVL,Montgomery Street,Fruitvale
+36,16,MONT,COLS,Montgomery Street,Coliseum
+36,17,MONT,SANL,Montgomery Street,San Leandro
+36,18,MONT,BAYF,Montgomery Street,Bay Fair
+36,19,MONT,HAYW,Montgomery Street,Hayward
+36,20,MONT,SHAY,Montgomery Street,South Hayward
+36,21,MONT,UCTY,Montgomery Street,Union City
+36,22,MONT,FRMT,Montgomery Street,Fremont
+36,23,MONT,CAST,Montgomery Street,Castro Valley
+36,24,MONT,DUBL,Montgomery Street,Dublin/Pleasanton
+36,25,MONT,PITT,Montgomery Street,Pittsburg/Bay Point
+36,26,MONT,NCON,Montgomery Street,North Concord/Martinez
+36,27,MONT,COLM,Montgomery Street,Colma
+36,28,MONT,CONC,Montgomery Street,Concord
+36,29,MONT,PHIL,Montgomery Street,Pleasant Hill
+36,30,MONT,WCRK,Montgomery Street,Walnut Creek
+36,31,MONT,LAFY,Montgomery Street,Lafayette
+36,32,MONT,ORIN,Montgomery Street,Orinda
+36,33,MONT,ROCK,Montgomery Street,Rockridge
+36,34,MONT,WOAK,Montgomery Street,West Oakland
+36,35,MONT,EMBR,Montgomery Street,Embarcadero
+36,36,MONT,MONT,Montgomery Street,Montgomery Street
+36,37,MONT,POWL,Montgomery Street,Powell Street
+36,38,MONT,CIVC,Montgomery Street,Civic Center
+36,39,MONT,16TH,Montgomery Street,16th Street Mission
+36,40,MONT,24TH,Montgomery Street,24th Street Mission
+36,41,MONT,GLEN,Montgomery Street,Glen Park
+36,42,MONT,BALB,Montgomery Street,Balboa Park
+36,43,MONT,DALY,Montgomery Street,Daly City
+36,44,MONT,OAKL,Montgomery Street,Oakland City Center/12th St
+36,45,MONT,WARM,Montgomery Street,Warm Springs/South Fremont
+36,46,MONT,MLPT,Montgomery Street,Milpitas
+36,47,MONT,BERY,Montgomery Street,Berryessa/North San Jose
+36,48,MONT,PCTR,Montgomery Street,Pittsburg Center
+36,49,MONT,ANTC,Montgomery Street,Antioch
+37,0,POWL,SSAN,Powell Street,South San Francisco
+37,1,POWL,SBRN,Powell Street,San Bruno
+37,2,POWL,SFIA,Powell Street,San Francisco International Airport
+37,3,POWL,MLBR,Powell Street,Millbrae
+37,4,POWL,WDUB,Powell Street,West Dublin/Pleasanton
+37,5,POWL,RICH,Powell Street,Richmond
+37,6,POWL,DELN,Powell Street,Del Norte
+37,7,POWL,PLZA,Powell Street,El Cerrito Plaza
+37,8,POWL,NBRK,Powell Street,North Berkeley
+37,9,POWL,DBRK,Powell Street,Downtown Berkeley
+37,10,POWL,ASHB,Powell Street,Ashby
+37,11,POWL,MCAR,Powell Street,MacArthur
+37,12,POWL,19TH,Powell Street,19th Street Oakland
+37,13,POWL,12TH,Powell Street,12th Street Oakland
+37,14,POWL,LAKE,Powell Street,Lake Merritt
+37,15,POWL,FTVL,Powell Street,Fruitvale
+37,16,POWL,COLS,Powell Street,Coliseum
+37,17,POWL,SANL,Powell Street,San Leandro
+37,18,POWL,BAYF,Powell Street,Bay Fair
+37,19,POWL,HAYW,Powell Street,Hayward
+37,20,POWL,SHAY,Powell Street,South Hayward
+37,21,POWL,UCTY,Powell Street,Union City
+37,22,POWL,FRMT,Powell Street,Fremont
+37,23,POWL,CAST,Powell Street,Castro Valley
+37,24,POWL,DUBL,Powell Street,Dublin/Pleasanton
+37,25,POWL,PITT,Powell Street,Pittsburg/Bay Point
+37,26,POWL,NCON,Powell Street,North Concord/Martinez
+37,27,POWL,COLM,Powell Street,Colma
+37,28,POWL,CONC,Powell Street,Concord
+37,29,POWL,PHIL,Powell Street,Pleasant Hill
+37,30,POWL,WCRK,Powell Street,Walnut Creek
+37,31,POWL,LAFY,Powell Street,Lafayette
+37,32,POWL,ORIN,Powell Street,Orinda
+37,33,POWL,ROCK,Powell Street,Rockridge
+37,34,POWL,WOAK,Powell Street,West Oakland
+37,35,POWL,EMBR,Powell Street,Embarcadero
+37,36,POWL,MONT,Powell Street,Montgomery Street
+37,37,POWL,POWL,Powell Street,Powell Street
+37,38,POWL,CIVC,Powell Street,Civic Center
+37,39,POWL,16TH,Powell Street,16th Street Mission
+37,40,POWL,24TH,Powell Street,24th Street Mission
+37,41,POWL,GLEN,Powell Street,Glen Park
+37,42,POWL,BALB,Powell Street,Balboa Park
+37,43,POWL,DALY,Powell Street,Daly City
+37,44,POWL,OAKL,Powell Street,Oakland City Center/12th St
+37,45,POWL,WARM,Powell Street,Warm Springs/South Fremont
+37,46,POWL,MLPT,Powell Street,Milpitas
+37,47,POWL,BERY,Powell Street,Berryessa/North San Jose
+37,48,POWL,PCTR,Powell Street,Pittsburg Center
+37,49,POWL,ANTC,Powell Street,Antioch
+38,0,CIVC,SSAN,Civic Center,South San Francisco
+38,1,CIVC,SBRN,Civic Center,San Bruno
+38,2,CIVC,SFIA,Civic Center,San Francisco International Airport
+38,3,CIVC,MLBR,Civic Center,Millbrae
+38,4,CIVC,WDUB,Civic Center,West Dublin/Pleasanton
+38,5,CIVC,RICH,Civic Center,Richmond
+38,6,CIVC,DELN,Civic Center,Del Norte
+38,7,CIVC,PLZA,Civic Center,El Cerrito Plaza
+38,8,CIVC,NBRK,Civic Center,North Berkeley
+38,9,CIVC,DBRK,Civic Center,Downtown Berkeley
+38,10,CIVC,ASHB,Civic Center,Ashby
+38,11,CIVC,MCAR,Civic Center,MacArthur
+38,12,CIVC,19TH,Civic Center,19th Street Oakland
+38,13,CIVC,12TH,Civic Center,12th Street Oakland
+38,14,CIVC,LAKE,Civic Center,Lake Merritt
+38,15,CIVC,FTVL,Civic Center,Fruitvale
+38,16,CIVC,COLS,Civic Center,Coliseum
+38,17,CIVC,SANL,Civic Center,San Leandro
+38,18,CIVC,BAYF,Civic Center,Bay Fair
+38,19,CIVC,HAYW,Civic Center,Hayward
+38,20,CIVC,SHAY,Civic Center,South Hayward
+38,21,CIVC,UCTY,Civic Center,Union City
+38,22,CIVC,FRMT,Civic Center,Fremont
+38,23,CIVC,CAST,Civic Center,Castro Valley
+38,24,CIVC,DUBL,Civic Center,Dublin/Pleasanton
+38,25,CIVC,PITT,Civic Center,Pittsburg/Bay Point
+38,26,CIVC,NCON,Civic Center,North Concord/Martinez
+38,27,CIVC,COLM,Civic Center,Colma
+38,28,CIVC,CONC,Civic Center,Concord
+38,29,CIVC,PHIL,Civic Center,Pleasant Hill
+38,30,CIVC,WCRK,Civic Center,Walnut Creek
+38,31,CIVC,LAFY,Civic Center,Lafayette
+38,32,CIVC,ORIN,Civic Center,Orinda
+38,33,CIVC,ROCK,Civic Center,Rockridge
+38,34,CIVC,WOAK,Civic Center,West Oakland
+38,35,CIVC,EMBR,Civic Center,Embarcadero
+38,36,CIVC,MONT,Civic Center,Montgomery Street
+38,37,CIVC,POWL,Civic Center,Powell Street
+38,38,CIVC,CIVC,Civic Center,Civic Center
+38,39,CIVC,16TH,Civic Center,16th Street Mission
+38,40,CIVC,24TH,Civic Center,24th Street Mission
+38,41,CIVC,GLEN,Civic Center,Glen Park
+38,42,CIVC,BALB,Civic Center,Balboa Park
+38,43,CIVC,DALY,Civic Center,Daly City
+38,44,CIVC,OAKL,Civic Center,Oakland City Center/12th St
+38,45,CIVC,WARM,Civic Center,Warm Springs/South Fremont
+38,46,CIVC,MLPT,Civic Center,Milpitas
+38,47,CIVC,BERY,Civic Center,Berryessa/North San Jose
+38,48,CIVC,PCTR,Civic Center,Pittsburg Center
+38,49,CIVC,ANTC,Civic Center,Antioch
+39,0,16TH,SSAN,16th Street Mission,South San Francisco
+39,1,16TH,SBRN,16th Street Mission,San Bruno
+39,2,16TH,SFIA,16th Street Mission,San Francisco International Airport
+39,3,16TH,MLBR,16th Street Mission,Millbrae
+39,4,16TH,WDUB,16th Street Mission,West Dublin/Pleasanton
+39,5,16TH,RICH,16th Street Mission,Richmond
+39,6,16TH,DELN,16th Street Mission,Del Norte
+39,7,16TH,PLZA,16th Street Mission,El Cerrito Plaza
+39,8,16TH,NBRK,16th Street Mission,North Berkeley
+39,9,16TH,DBRK,16th Street Mission,Downtown Berkeley
+39,10,16TH,ASHB,16th Street Mission,Ashby
+39,11,16TH,MCAR,16th Street Mission,MacArthur
+39,12,16TH,19TH,16th Street Mission,19th Street Oakland
+39,13,16TH,12TH,16th Street Mission,12th Street Oakland
+39,14,16TH,LAKE,16th Street Mission,Lake Merritt
+39,15,16TH,FTVL,16th Street Mission,Fruitvale
+39,16,16TH,COLS,16th Street Mission,Coliseum
+39,17,16TH,SANL,16th Street Mission,San Leandro
+39,18,16TH,BAYF,16th Street Mission,Bay Fair
+39,19,16TH,HAYW,16th Street Mission,Hayward
+39,20,16TH,SHAY,16th Street Mission,South Hayward
+39,21,16TH,UCTY,16th Street Mission,Union City
+39,22,16TH,FRMT,16th Street Mission,Fremont
+39,23,16TH,CAST,16th Street Mission,Castro Valley
+39,24,16TH,DUBL,16th Street Mission,Dublin/Pleasanton
+39,25,16TH,PITT,16th Street Mission,Pittsburg/Bay Point
+39,26,16TH,NCON,16th Street Mission,North Concord/Martinez
+39,27,16TH,COLM,16th Street Mission,Colma
+39,28,16TH,CONC,16th Street Mission,Concord
+39,29,16TH,PHIL,16th Street Mission,Pleasant Hill
+39,30,16TH,WCRK,16th Street Mission,Walnut Creek
+39,31,16TH,LAFY,16th Street Mission,Lafayette
+39,32,16TH,ORIN,16th Street Mission,Orinda
+39,33,16TH,ROCK,16th Street Mission,Rockridge
+39,34,16TH,WOAK,16th Street Mission,West Oakland
+39,35,16TH,EMBR,16th Street Mission,Embarcadero
+39,36,16TH,MONT,16th Street Mission,Montgomery Street
+39,37,16TH,POWL,16th Street Mission,Powell Street
+39,38,16TH,CIVC,16th Street Mission,Civic Center
+39,39,16TH,16TH,16th Street Mission,16th Street Mission
+39,40,16TH,24TH,16th Street Mission,24th Street Mission
+39,41,16TH,GLEN,16th Street Mission,Glen Park
+39,42,16TH,BALB,16th Street Mission,Balboa Park
+39,43,16TH,DALY,16th Street Mission,Daly City
+39,44,16TH,OAKL,16th Street Mission,Oakland City Center/12th St
+39,45,16TH,WARM,16th Street Mission,Warm Springs/South Fremont
+39,46,16TH,MLPT,16th Street Mission,Milpitas
+39,47,16TH,BERY,16th Street Mission,Berryessa/North San Jose
+39,48,16TH,PCTR,16th Street Mission,Pittsburg Center
+39,49,16TH,ANTC,16th Street Mission,Antioch
+40,0,24TH,SSAN,24th Street Mission,South San Francisco
+40,1,24TH,SBRN,24th Street Mission,San Bruno
+40,2,24TH,SFIA,24th Street Mission,San Francisco International Airport
+40,3,24TH,MLBR,24th Street Mission,Millbrae
+40,4,24TH,WDUB,24th Street Mission,West Dublin/Pleasanton
+40,5,24TH,RICH,24th Street Mission,Richmond
+40,6,24TH,DELN,24th Street Mission,Del Norte
+40,7,24TH,PLZA,24th Street Mission,El Cerrito Plaza
+40,8,24TH,NBRK,24th Street Mission,North Berkeley
+40,9,24TH,DBRK,24th Street Mission,Downtown Berkeley
+40,10,24TH,ASHB,24th Street Mission,Ashby
+40,11,24TH,MCAR,24th Street Mission,MacArthur
+40,12,24TH,19TH,24th Street Mission,19th Street Oakland
+40,13,24TH,12TH,24th Street Mission,12th Street Oakland
+40,14,24TH,LAKE,24th Street Mission,Lake Merritt
+40,15,24TH,FTVL,24th Street Mission,Fruitvale
+40,16,24TH,COLS,24th Street Mission,Coliseum
+40,17,24TH,SANL,24th Street Mission,San Leandro
+40,18,24TH,BAYF,24th Street Mission,Bay Fair
+40,19,24TH,HAYW,24th Street Mission,Hayward
+40,20,24TH,SHAY,24th Street Mission,South Hayward
+40,21,24TH,UCTY,24th Street Mission,Union City
+40,22,24TH,FRMT,24th Street Mission,Fremont
+40,23,24TH,CAST,24th Street Mission,Castro Valley
+40,24,24TH,DUBL,24th Street Mission,Dublin/Pleasanton
+40,25,24TH,PITT,24th Street Mission,Pittsburg/Bay Point
+40,26,24TH,NCON,24th Street Mission,North Concord/Martinez
+40,27,24TH,COLM,24th Street Mission,Colma
+40,28,24TH,CONC,24th Street Mission,Concord
+40,29,24TH,PHIL,24th Street Mission,Pleasant Hill
+40,30,24TH,WCRK,24th Street Mission,Walnut Creek
+40,31,24TH,LAFY,24th Street Mission,Lafayette
+40,32,24TH,ORIN,24th Street Mission,Orinda
+40,33,24TH,ROCK,24th Street Mission,Rockridge
+40,34,24TH,WOAK,24th Street Mission,West Oakland
+40,35,24TH,EMBR,24th Street Mission,Embarcadero
+40,36,24TH,MONT,24th Street Mission,Montgomery Street
+40,37,24TH,POWL,24th Street Mission,Powell Street
+40,38,24TH,CIVC,24th Street Mission,Civic Center
+40,39,24TH,16TH,24th Street Mission,16th Street Mission
+40,40,24TH,24TH,24th Street Mission,24th Street Mission
+40,41,24TH,GLEN,24th Street Mission,Glen Park
+40,42,24TH,BALB,24th Street Mission,Balboa Park
+40,43,24TH,DALY,24th Street Mission,Daly City
+40,44,24TH,OAKL,24th Street Mission,Oakland City Center/12th St
+40,45,24TH,WARM,24th Street Mission,Warm Springs/South Fremont
+40,46,24TH,MLPT,24th Street Mission,Milpitas
+40,47,24TH,BERY,24th Street Mission,Berryessa/North San Jose
+40,48,24TH,PCTR,24th Street Mission,Pittsburg Center
+40,49,24TH,ANTC,24th Street Mission,Antioch
+41,0,GLEN,SSAN,Glen Park,South San Francisco
+41,1,GLEN,SBRN,Glen Park,San Bruno
+41,2,GLEN,SFIA,Glen Park,San Francisco International Airport
+41,3,GLEN,MLBR,Glen Park,Millbrae
+41,4,GLEN,WDUB,Glen Park,West Dublin/Pleasanton
+41,5,GLEN,RICH,Glen Park,Richmond
+41,6,GLEN,DELN,Glen Park,Del Norte
+41,7,GLEN,PLZA,Glen Park,El Cerrito Plaza
+41,8,GLEN,NBRK,Glen Park,North Berkeley
+41,9,GLEN,DBRK,Glen Park,Downtown Berkeley
+41,10,GLEN,ASHB,Glen Park,Ashby
+41,11,GLEN,MCAR,Glen Park,MacArthur
+41,12,GLEN,19TH,Glen Park,19th Street Oakland
+41,13,GLEN,12TH,Glen Park,12th Street Oakland
+41,14,GLEN,LAKE,Glen Park,Lake Merritt
+41,15,GLEN,FTVL,Glen Park,Fruitvale
+41,16,GLEN,COLS,Glen Park,Coliseum
+41,17,GLEN,SANL,Glen Park,San Leandro
+41,18,GLEN,BAYF,Glen Park,Bay Fair
+41,19,GLEN,HAYW,Glen Park,Hayward
+41,20,GLEN,SHAY,Glen Park,South Hayward
+41,21,GLEN,UCTY,Glen Park,Union City
+41,22,GLEN,FRMT,Glen Park,Fremont
+41,23,GLEN,CAST,Glen Park,Castro Valley
+41,24,GLEN,DUBL,Glen Park,Dublin/Pleasanton
+41,25,GLEN,PITT,Glen Park,Pittsburg/Bay Point
+41,26,GLEN,NCON,Glen Park,North Concord/Martinez
+41,27,GLEN,COLM,Glen Park,Colma
+41,28,GLEN,CONC,Glen Park,Concord
+41,29,GLEN,PHIL,Glen Park,Pleasant Hill
+41,30,GLEN,WCRK,Glen Park,Walnut Creek
+41,31,GLEN,LAFY,Glen Park,Lafayette
+41,32,GLEN,ORIN,Glen Park,Orinda
+41,33,GLEN,ROCK,Glen Park,Rockridge
+41,34,GLEN,WOAK,Glen Park,West Oakland
+41,35,GLEN,EMBR,Glen Park,Embarcadero
+41,36,GLEN,MONT,Glen Park,Montgomery Street
+41,37,GLEN,POWL,Glen Park,Powell Street
+41,38,GLEN,CIVC,Glen Park,Civic Center
+41,39,GLEN,16TH,Glen Park,16th Street Mission
+41,40,GLEN,24TH,Glen Park,24th Street Mission
+41,41,GLEN,GLEN,Glen Park,Glen Park
+41,42,GLEN,BALB,Glen Park,Balboa Park
+41,43,GLEN,DALY,Glen Park,Daly City
+41,44,GLEN,OAKL,Glen Park,Oakland City Center/12th St
+41,45,GLEN,WARM,Glen Park,Warm Springs/South Fremont
+41,46,GLEN,MLPT,Glen Park,Milpitas
+41,47,GLEN,BERY,Glen Park,Berryessa/North San Jose
+41,48,GLEN,PCTR,Glen Park,Pittsburg Center
+41,49,GLEN,ANTC,Glen Park,Antioch
+42,0,BALB,SSAN,Balboa Park,South San Francisco
+42,1,BALB,SBRN,Balboa Park,San Bruno
+42,2,BALB,SFIA,Balboa Park,San Francisco International Airport
+42,3,BALB,MLBR,Balboa Park,Millbrae
+42,4,BALB,WDUB,Balboa Park,West Dublin/Pleasanton
+42,5,BALB,RICH,Balboa Park,Richmond
+42,6,BALB,DELN,Balboa Park,Del Norte
+42,7,BALB,PLZA,Balboa Park,El Cerrito Plaza
+42,8,BALB,NBRK,Balboa Park,North Berkeley
+42,9,BALB,DBRK,Balboa Park,Downtown Berkeley
+42,10,BALB,ASHB,Balboa Park,Ashby
+42,11,BALB,MCAR,Balboa Park,MacArthur
+42,12,BALB,19TH,Balboa Park,19th Street Oakland
+42,13,BALB,12TH,Balboa Park,12th Street Oakland
+42,14,BALB,LAKE,Balboa Park,Lake Merritt
+42,15,BALB,FTVL,Balboa Park,Fruitvale
+42,16,BALB,COLS,Balboa Park,Coliseum
+42,17,BALB,SANL,Balboa Park,San Leandro
+42,18,BALB,BAYF,Balboa Park,Bay Fair
+42,19,BALB,HAYW,Balboa Park,Hayward
+42,20,BALB,SHAY,Balboa Park,South Hayward
+42,21,BALB,UCTY,Balboa Park,Union City
+42,22,BALB,FRMT,Balboa Park,Fremont
+42,23,BALB,CAST,Balboa Park,Castro Valley
+42,24,BALB,DUBL,Balboa Park,Dublin/Pleasanton
+42,25,BALB,PITT,Balboa Park,Pittsburg/Bay Point
+42,26,BALB,NCON,Balboa Park,North Concord/Martinez
+42,27,BALB,COLM,Balboa Park,Colma
+42,28,BALB,CONC,Balboa Park,Concord
+42,29,BALB,PHIL,Balboa Park,Pleasant Hill
+42,30,BALB,WCRK,Balboa Park,Walnut Creek
+42,31,BALB,LAFY,Balboa Park,Lafayette
+42,32,BALB,ORIN,Balboa Park,Orinda
+42,33,BALB,ROCK,Balboa Park,Rockridge
+42,34,BALB,WOAK,Balboa Park,West Oakland
+42,35,BALB,EMBR,Balboa Park,Embarcadero
+42,36,BALB,MONT,Balboa Park,Montgomery Street
+42,37,BALB,POWL,Balboa Park,Powell Street
+42,38,BALB,CIVC,Balboa Park,Civic Center
+42,39,BALB,16TH,Balboa Park,16th Street Mission
+42,40,BALB,24TH,Balboa Park,24th Street Mission
+42,41,BALB,GLEN,Balboa Park,Glen Park
+42,42,BALB,BALB,Balboa Park,Balboa Park
+42,43,BALB,DALY,Balboa Park,Daly City
+42,44,BALB,OAKL,Balboa Park,Oakland City Center/12th St
+42,45,BALB,WARM,Balboa Park,Warm Springs/South Fremont
+42,46,BALB,MLPT,Balboa Park,Milpitas
+42,47,BALB,BERY,Balboa Park,Berryessa/North San Jose
+42,48,BALB,PCTR,Balboa Park,Pittsburg Center
+42,49,BALB,ANTC,Balboa Park,Antioch
+43,0,DALY,SSAN,Daly City,South San Francisco
+43,1,DALY,SBRN,Daly City,San Bruno
+43,2,DALY,SFIA,Daly City,San Francisco International Airport
+43,3,DALY,MLBR,Daly City,Millbrae
+43,4,DALY,WDUB,Daly City,West Dublin/Pleasanton
+43,5,DALY,RICH,Daly City,Richmond
+43,6,DALY,DELN,Daly City,Del Norte
+43,7,DALY,PLZA,Daly City,El Cerrito Plaza
+43,8,DALY,NBRK,Daly City,North Berkeley
+43,9,DALY,DBRK,Daly City,Downtown Berkeley
+43,10,DALY,ASHB,Daly City,Ashby
+43,11,DALY,MCAR,Daly City,MacArthur
+43,12,DALY,19TH,Daly City,19th Street Oakland
+43,13,DALY,12TH,Daly City,12th Street Oakland
+43,14,DALY,LAKE,Daly City,Lake Merritt
+43,15,DALY,FTVL,Daly City,Fruitvale
+43,16,DALY,COLS,Daly City,Coliseum
+43,17,DALY,SANL,Daly City,San Leandro
+43,18,DALY,BAYF,Daly City,Bay Fair
+43,19,DALY,HAYW,Daly City,Hayward
+43,20,DALY,SHAY,Daly City,South Hayward
+43,21,DALY,UCTY,Daly City,Union City
+43,22,DALY,FRMT,Daly City,Fremont
+43,23,DALY,CAST,Daly City,Castro Valley
+43,24,DALY,DUBL,Daly City,Dublin/Pleasanton
+43,25,DALY,PITT,Daly City,Pittsburg/Bay Point
+43,26,DALY,NCON,Daly City,North Concord/Martinez
+43,27,DALY,COLM,Daly City,Colma
+43,28,DALY,CONC,Daly City,Concord
+43,29,DALY,PHIL,Daly City,Pleasant Hill
+43,30,DALY,WCRK,Daly City,Walnut Creek
+43,31,DALY,LAFY,Daly City,Lafayette
+43,32,DALY,ORIN,Daly City,Orinda
+43,33,DALY,ROCK,Daly City,Rockridge
+43,34,DALY,WOAK,Daly City,West Oakland
+43,35,DALY,EMBR,Daly City,Embarcadero
+43,36,DALY,MONT,Daly City,Montgomery Street
+43,37,DALY,POWL,Daly City,Powell Street
+43,38,DALY,CIVC,Daly City,Civic Center
+43,39,DALY,16TH,Daly City,16th Street Mission
+43,40,DALY,24TH,Daly City,24th Street Mission
+43,41,DALY,GLEN,Daly City,Glen Park
+43,42,DALY,BALB,Daly City,Balboa Park
+43,43,DALY,DALY,Daly City,Daly City
+43,44,DALY,OAKL,Daly City,Oakland City Center/12th St
+43,45,DALY,WARM,Daly City,Warm Springs/South Fremont
+43,46,DALY,MLPT,Daly City,Milpitas
+43,47,DALY,BERY,Daly City,Berryessa/North San Jose
+43,48,DALY,PCTR,Daly City,Pittsburg Center
+43,49,DALY,ANTC,Daly City,Antioch
+44,0,OAKL,SSAN,Oakland City Center/12th St,South San Francisco
+44,1,OAKL,SBRN,Oakland City Center/12th St,San Bruno
+44,2,OAKL,SFIA,Oakland City Center/12th St,San Francisco International Airport
+44,3,OAKL,MLBR,Oakland City Center/12th St,Millbrae
+44,4,OAKL,WDUB,Oakland City Center/12th St,West Dublin/Pleasanton
+44,5,OAKL,RICH,Oakland City Center/12th St,Richmond
+44,6,OAKL,DELN,Oakland City Center/12th St,Del Norte
+44,7,OAKL,PLZA,Oakland City Center/12th St,El Cerrito Plaza
+44,8,OAKL,NBRK,Oakland City Center/12th St,North Berkeley
+44,9,OAKL,DBRK,Oakland City Center/12th St,Downtown Berkeley
+44,10,OAKL,ASHB,Oakland City Center/12th St,Ashby
+44,11,OAKL,MCAR,Oakland City Center/12th St,MacArthur
+44,12,OAKL,19TH,Oakland City Center/12th St,19th Street Oakland
+44,13,OAKL,12TH,Oakland City Center/12th St,12th Street Oakland
+44,14,OAKL,LAKE,Oakland City Center/12th St,Lake Merritt
+44,15,OAKL,FTVL,Oakland City Center/12th St,Fruitvale
+44,16,OAKL,COLS,Oakland City Center/12th St,Coliseum
+44,17,OAKL,SANL,Oakland City Center/12th St,San Leandro
+44,18,OAKL,BAYF,Oakland City Center/12th St,Bay Fair
+44,19,OAKL,HAYW,Oakland City Center/12th St,Hayward
+44,20,OAKL,SHAY,Oakland City Center/12th St,South Hayward
+44,21,OAKL,UCTY,Oakland City Center/12th St,Union City
+44,22,OAKL,FRMT,Oakland City Center/12th St,Fremont
+44,23,OAKL,CAST,Oakland City Center/12th St,Castro Valley
+44,24,OAKL,DUBL,Oakland City Center/12th St,Dublin/Pleasanton
+44,25,OAKL,PITT,Oakland City Center/12th St,Pittsburg/Bay Point
+44,26,OAKL,NCON,Oakland City Center/12th St,North Concord/Martinez
+44,27,OAKL,COLM,Oakland City Center/12th St,Colma
+44,28,OAKL,CONC,Oakland City Center/12th St,Concord
+44,29,OAKL,PHIL,Oakland City Center/12th St,Pleasant Hill
+44,30,OAKL,WCRK,Oakland City Center/12th St,Walnut Creek
+44,31,OAKL,LAFY,Oakland City Center/12th St,Lafayette
+44,32,OAKL,ORIN,Oakland City Center/12th St,Orinda
+44,33,OAKL,ROCK,Oakland City Center/12th St,Rockridge
+44,34,OAKL,WOAK,Oakland City Center/12th St,West Oakland
+44,35,OAKL,EMBR,Oakland City Center/12th St,Embarcadero
+44,36,OAKL,MONT,Oakland City Center/12th St,Montgomery Street
+44,37,OAKL,POWL,Oakland City Center/12th St,Powell Street
+44,38,OAKL,CIVC,Oakland City Center/12th St,Civic Center
+44,39,OAKL,16TH,Oakland City Center/12th St,16th Street Mission
+44,40,OAKL,24TH,Oakland City Center/12th St,24th Street Mission
+44,41,OAKL,GLEN,Oakland City Center/12th St,Glen Park
+44,42,OAKL,BALB,Oakland City Center/12th St,Balboa Park
+44,43,OAKL,DALY,Oakland City Center/12th St,Daly City
+44,44,OAKL,OAKL,Oakland City Center/12th St,Oakland City Center/12th St
+44,45,OAKL,WARM,Oakland City Center/12th St,Warm Springs/South Fremont
+44,46,OAKL,MLPT,Oakland City Center/12th St,Milpitas
+44,47,OAKL,BERY,Oakland City Center/12th St,Berryessa/North San Jose
+44,48,OAKL,PCTR,Oakland City Center/12th St,Pittsburg Center
+44,49,OAKL,ANTC,Oakland City Center/12th St,Antioch
+45,0,WARM,SSAN,Warm Springs/South Fremont,South San Francisco
+45,1,WARM,SBRN,Warm Springs/South Fremont,San Bruno
+45,2,WARM,SFIA,Warm Springs/South Fremont,San Francisco International Airport
+45,3,WARM,MLBR,Warm Springs/South Fremont,Millbrae
+45,4,WARM,WDUB,Warm Springs/South Fremont,West Dublin/Pleasanton
+45,5,WARM,RICH,Warm Springs/South Fremont,Richmond
+45,6,WARM,DELN,Warm Springs/South Fremont,Del Norte
+45,7,WARM,PLZA,Warm Springs/South Fremont,El Cerrito Plaza
+45,8,WARM,NBRK,Warm Springs/South Fremont,North Berkeley
+45,9,WARM,DBRK,Warm Springs/South Fremont,Downtown Berkeley
+45,10,WARM,ASHB,Warm Springs/South Fremont,Ashby
+45,11,WARM,MCAR,Warm Springs/South Fremont,MacArthur
+45,12,WARM,19TH,Warm Springs/South Fremont,19th Street Oakland
+45,13,WARM,12TH,Warm Springs/South Fremont,12th Street Oakland
+45,14,WARM,LAKE,Warm Springs/South Fremont,Lake Merritt
+45,15,WARM,FTVL,Warm Springs/South Fremont,Fruitvale
+45,16,WARM,COLS,Warm Springs/South Fremont,Coliseum
+45,17,WARM,SANL,Warm Springs/South Fremont,San Leandro
+45,18,WARM,BAYF,Warm Springs/South Fremont,Bay Fair
+45,19,WARM,HAYW,Warm Springs/South Fremont,Hayward
+45,20,WARM,SHAY,Warm Springs/South Fremont,South Hayward
+45,21,WARM,UCTY,Warm Springs/South Fremont,Union City
+45,22,WARM,FRMT,Warm Springs/South Fremont,Fremont
+45,23,WARM,CAST,Warm Springs/South Fremont,Castro Valley
+45,24,WARM,DUBL,Warm Springs/South Fremont,Dublin/Pleasanton
+45,25,WARM,PITT,Warm Springs/South Fremont,Pittsburg/Bay Point
+45,26,WARM,NCON,Warm Springs/South Fremont,North Concord/Martinez
+45,27,WARM,COLM,Warm Springs/South Fremont,Colma
+45,28,WARM,CONC,Warm Springs/South Fremont,Concord
+45,29,WARM,PHIL,Warm Springs/South Fremont,Pleasant Hill
+45,30,WARM,WCRK,Warm Springs/South Fremont,Walnut Creek
+45,31,WARM,LAFY,Warm Springs/South Fremont,Lafayette
+45,32,WARM,ORIN,Warm Springs/South Fremont,Orinda
+45,33,WARM,ROCK,Warm Springs/South Fremont,Rockridge
+45,34,WARM,WOAK,Warm Springs/South Fremont,West Oakland
+45,35,WARM,EMBR,Warm Springs/South Fremont,Embarcadero
+45,36,WARM,MONT,Warm Springs/South Fremont,Montgomery Street
+45,37,WARM,POWL,Warm Springs/South Fremont,Powell Street
+45,38,WARM,CIVC,Warm Springs/South Fremont,Civic Center
+45,39,WARM,16TH,Warm Springs/South Fremont,16th Street Mission
+45,40,WARM,24TH,Warm Springs/South Fremont,24th Street Mission
+45,41,WARM,GLEN,Warm Springs/South Fremont,Glen Park
+45,42,WARM,BALB,Warm Springs/South Fremont,Balboa Park
+45,43,WARM,DALY,Warm Springs/South Fremont,Daly City
+45,44,WARM,OAKL,Warm Springs/South Fremont,Oakland City Center/12th St
+45,45,WARM,WARM,Warm Springs/South Fremont,Warm Springs/South Fremont
+45,46,WARM,MLPT,Warm Springs/South Fremont,Milpitas
+45,47,WARM,BERY,Warm Springs/South Fremont,Berryessa/North San Jose
+45,48,WARM,PCTR,Warm Springs/South Fremont,Pittsburg Center
+45,49,WARM,ANTC,Warm Springs/South Fremont,Antioch
+46,0,MLPT,SSAN,Milpitas,South San Francisco
+46,1,MLPT,SBRN,Milpitas,San Bruno
+46,2,MLPT,SFIA,Milpitas,San Francisco International Airport
+46,3,MLPT,MLBR,Milpitas,Millbrae
+46,4,MLPT,WDUB,Milpitas,West Dublin/Pleasanton
+46,5,MLPT,RICH,Milpitas,Richmond
+46,6,MLPT,DELN,Milpitas,Del Norte
+46,7,MLPT,PLZA,Milpitas,El Cerrito Plaza
+46,8,MLPT,NBRK,Milpitas,North Berkeley
+46,9,MLPT,DBRK,Milpitas,Downtown Berkeley
+46,10,MLPT,ASHB,Milpitas,Ashby
+46,11,MLPT,MCAR,Milpitas,MacArthur
+46,12,MLPT,19TH,Milpitas,19th Street Oakland
+46,13,MLPT,12TH,Milpitas,12th Street Oakland
+46,14,MLPT,LAKE,Milpitas,Lake Merritt
+46,15,MLPT,FTVL,Milpitas,Fruitvale
+46,16,MLPT,COLS,Milpitas,Coliseum
+46,17,MLPT,SANL,Milpitas,San Leandro
+46,18,MLPT,BAYF,Milpitas,Bay Fair
+46,19,MLPT,HAYW,Milpitas,Hayward
+46,20,MLPT,SHAY,Milpitas,South Hayward
+46,21,MLPT,UCTY,Milpitas,Union City
+46,22,MLPT,FRMT,Milpitas,Fremont
+46,23,MLPT,CAST,Milpitas,Castro Valley
+46,24,MLPT,DUBL,Milpitas,Dublin/Pleasanton
+46,25,MLPT,PITT,Milpitas,Pittsburg/Bay Point
+46,26,MLPT,NCON,Milpitas,North Concord/Martinez
+46,27,MLPT,COLM,Milpitas,Colma
+46,28,MLPT,CONC,Milpitas,Concord
+46,29,MLPT,PHIL,Milpitas,Pleasant Hill
+46,30,MLPT,WCRK,Milpitas,Walnut Creek
+46,31,MLPT,LAFY,Milpitas,Lafayette
+46,32,MLPT,ORIN,Milpitas,Orinda
+46,33,MLPT,ROCK,Milpitas,Rockridge
+46,34,MLPT,WOAK,Milpitas,West Oakland
+46,35,MLPT,EMBR,Milpitas,Embarcadero
+46,36,MLPT,MONT,Milpitas,Montgomery Street
+46,37,MLPT,POWL,Milpitas,Powell Street
+46,38,MLPT,CIVC,Milpitas,Civic Center
+46,39,MLPT,16TH,Milpitas,16th Street Mission
+46,40,MLPT,24TH,Milpitas,24th Street Mission
+46,41,MLPT,GLEN,Milpitas,Glen Park
+46,42,MLPT,BALB,Milpitas,Balboa Park
+46,43,MLPT,DALY,Milpitas,Daly City
+46,44,MLPT,OAKL,Milpitas,Oakland City Center/12th St
+46,45,MLPT,WARM,Milpitas,Warm Springs/South Fremont
+46,46,MLPT,MLPT,Milpitas,Milpitas
+46,47,MLPT,BERY,Milpitas,Berryessa/North San Jose
+46,48,MLPT,PCTR,Milpitas,Pittsburg Center
+46,49,MLPT,ANTC,Milpitas,Antioch
+47,0,BERY,SSAN,Berryessa/North San Jose,South San Francisco
+47,1,BERY,SBRN,Berryessa/North San Jose,San Bruno
+47,2,BERY,SFIA,Berryessa/North San Jose,San Francisco International Airport
+47,3,BERY,MLBR,Berryessa/North San Jose,Millbrae
+47,4,BERY,WDUB,Berryessa/North San Jose,West Dublin/Pleasanton
+47,5,BERY,RICH,Berryessa/North San Jose,Richmond
+47,6,BERY,DELN,Berryessa/North San Jose,Del Norte
+47,7,BERY,PLZA,Berryessa/North San Jose,El Cerrito Plaza
+47,8,BERY,NBRK,Berryessa/North San Jose,North Berkeley
+47,9,BERY,DBRK,Berryessa/North San Jose,Downtown Berkeley
+47,10,BERY,ASHB,Berryessa/North San Jose,Ashby
+47,11,BERY,MCAR,Berryessa/North San Jose,MacArthur
+47,12,BERY,19TH,Berryessa/North San Jose,19th Street Oakland
+47,13,BERY,12TH,Berryessa/North San Jose,12th Street Oakland
+47,14,BERY,LAKE,Berryessa/North San Jose,Lake Merritt
+47,15,BERY,FTVL,Berryessa/North San Jose,Fruitvale
+47,16,BERY,COLS,Berryessa/North San Jose,Coliseum
+47,17,BERY,SANL,Berryessa/North San Jose,San Leandro
+47,18,BERY,BAYF,Berryessa/North San Jose,Bay Fair
+47,19,BERY,HAYW,Berryessa/North San Jose,Hayward
+47,20,BERY,SHAY,Berryessa/North San Jose,South Hayward
+47,21,BERY,UCTY,Berryessa/North San Jose,Union City
+47,22,BERY,FRMT,Berryessa/North San Jose,Fremont
+47,23,BERY,CAST,Berryessa/North San Jose,Castro Valley
+47,24,BERY,DUBL,Berryessa/North San Jose,Dublin/Pleasanton
+47,25,BERY,PITT,Berryessa/North San Jose,Pittsburg/Bay Point
+47,26,BERY,NCON,Berryessa/North San Jose,North Concord/Martinez
+47,27,BERY,COLM,Berryessa/North San Jose,Colma
+47,28,BERY,CONC,Berryessa/North San Jose,Concord
+47,29,BERY,PHIL,Berryessa/North San Jose,Pleasant Hill
+47,30,BERY,WCRK,Berryessa/North San Jose,Walnut Creek
+47,31,BERY,LAFY,Berryessa/North San Jose,Lafayette
+47,32,BERY,ORIN,Berryessa/North San Jose,Orinda
+47,33,BERY,ROCK,Berryessa/North San Jose,Rockridge
+47,34,BERY,WOAK,Berryessa/North San Jose,West Oakland
+47,35,BERY,EMBR,Berryessa/North San Jose,Embarcadero
+47,36,BERY,MONT,Berryessa/North San Jose,Montgomery Street
+47,37,BERY,POWL,Berryessa/North San Jose,Powell Street
+47,38,BERY,CIVC,Berryessa/North San Jose,Civic Center
+47,39,BERY,16TH,Berryessa/North San Jose,16th Street Mission
+47,40,BERY,24TH,Berryessa/North San Jose,24th Street Mission
+47,41,BERY,GLEN,Berryessa/North San Jose,Glen Park
+47,42,BERY,BALB,Berryessa/North San Jose,Balboa Park
+47,43,BERY,DALY,Berryessa/North San Jose,Daly City
+47,44,BERY,OAKL,Berryessa/North San Jose,Oakland City Center/12th St
+47,45,BERY,WARM,Berryessa/North San Jose,Warm Springs/South Fremont
+47,46,BERY,MLPT,Berryessa/North San Jose,Milpitas
+47,47,BERY,BERY,Berryessa/North San Jose,Berryessa/North San Jose
+47,48,BERY,PCTR,Berryessa/North San Jose,Pittsburg Center
+47,49,BERY,ANTC,Berryessa/North San Jose,Antioch
+48,0,PCTR,SSAN,Pittsburg Center,South San Francisco
+48,1,PCTR,SBRN,Pittsburg Center,San Bruno
+48,2,PCTR,SFIA,Pittsburg Center,San Francisco International Airport
+48,3,PCTR,MLBR,Pittsburg Center,Millbrae
+48,4,PCTR,WDUB,Pittsburg Center,West Dublin/Pleasanton
+48,5,PCTR,RICH,Pittsburg Center,Richmond
+48,6,PCTR,DELN,Pittsburg Center,Del Norte
+48,7,PCTR,PLZA,Pittsburg Center,El Cerrito Plaza
+48,8,PCTR,NBRK,Pittsburg Center,North Berkeley
+48,9,PCTR,DBRK,Pittsburg Center,Downtown Berkeley
+48,10,PCTR,ASHB,Pittsburg Center,Ashby
+48,11,PCTR,MCAR,Pittsburg Center,MacArthur
+48,12,PCTR,19TH,Pittsburg Center,19th Street Oakland
+48,13,PCTR,12TH,Pittsburg Center,12th Street Oakland
+48,14,PCTR,LAKE,Pittsburg Center,Lake Merritt
+48,15,PCTR,FTVL,Pittsburg Center,Fruitvale
+48,16,PCTR,COLS,Pittsburg Center,Coliseum
+48,17,PCTR,SANL,Pittsburg Center,San Leandro
+48,18,PCTR,BAYF,Pittsburg Center,Bay Fair
+48,19,PCTR,HAYW,Pittsburg Center,Hayward
+48,20,PCTR,SHAY,Pittsburg Center,South Hayward
+48,21,PCTR,UCTY,Pittsburg Center,Union City
+48,22,PCTR,FRMT,Pittsburg Center,Fremont
+48,23,PCTR,CAST,Pittsburg Center,Castro Valley
+48,24,PCTR,DUBL,Pittsburg Center,Dublin/Pleasanton
+48,25,PCTR,PITT,Pittsburg Center,Pittsburg/Bay Point
+48,26,PCTR,NCON,Pittsburg Center,North Concord/Martinez
+48,27,PCTR,COLM,Pittsburg Center,Colma
+48,28,PCTR,CONC,Pittsburg Center,Concord
+48,29,PCTR,PHIL,Pittsburg Center,Pleasant Hill
+48,30,PCTR,WCRK,Pittsburg Center,Walnut Creek
+48,31,PCTR,LAFY,Pittsburg Center,Lafayette
+48,32,PCTR,ORIN,Pittsburg Center,Orinda
+48,33,PCTR,ROCK,Pittsburg Center,Rockridge
+48,34,PCTR,WOAK,Pittsburg Center,West Oakland
+48,35,PCTR,EMBR,Pittsburg Center,Embarcadero
+48,36,PCTR,MONT,Pittsburg Center,Montgomery Street
+48,37,PCTR,POWL,Pittsburg Center,Powell Street
+48,38,PCTR,CIVC,Pittsburg Center,Civic Center
+48,39,PCTR,16TH,Pittsburg Center,16th Street Mission
+48,40,PCTR,24TH,Pittsburg Center,24th Street Mission
+48,41,PCTR,GLEN,Pittsburg Center,Glen Park
+48,42,PCTR,BALB,Pittsburg Center,Balboa Park
+48,43,PCTR,DALY,Pittsburg Center,Daly City
+48,44,PCTR,OAKL,Pittsburg Center,Oakland City Center/12th St
+48,45,PCTR,WARM,Pittsburg Center,Warm Springs/South Fremont
+48,46,PCTR,MLPT,Pittsburg Center,Milpitas
+48,47,PCTR,BERY,Pittsburg Center,Berryessa/North San Jose
+48,48,PCTR,PCTR,Pittsburg Center,Pittsburg Center
+48,49,PCTR,ANTC,Pittsburg Center,Antioch
+49,0,ANTC,SSAN,Antioch,South San Francisco
+49,1,ANTC,SBRN,Antioch,San Bruno
+49,2,ANTC,SFIA,Antioch,San Francisco International Airport
+49,3,ANTC,MLBR,Antioch,Millbrae
+49,4,ANTC,WDUB,Antioch,West Dublin/Pleasanton
+49,5,ANTC,RICH,Antioch,Richmond
+49,6,ANTC,DELN,Antioch,Del Norte
+49,7,ANTC,PLZA,Antioch,El Cerrito Plaza
+49,8,ANTC,NBRK,Antioch,North Berkeley
+49,9,ANTC,DBRK,Antioch,Downtown Berkeley
+49,10,ANTC,ASHB,Antioch,Ashby
+49,11,ANTC,MCAR,Antioch,MacArthur
+49,12,ANTC,19TH,Antioch,19th Street Oakland
+49,13,ANTC,12TH,Antioch,12th Street Oakland
+49,14,ANTC,LAKE,Antioch,Lake Merritt
+49,15,ANTC,FTVL,Antioch,Fruitvale
+49,16,ANTC,COLS,Antioch,Coliseum
+49,17,ANTC,SANL,Antioch,San Leandro
+49,18,ANTC,BAYF,Antioch,Bay Fair
+49,19,ANTC,HAYW,Antioch,Hayward
+49,20,ANTC,SHAY,Antioch,South Hayward
+49,21,ANTC,UCTY,Antioch,Union City
+49,22,ANTC,FRMT,Antioch,Fremont
+49,23,ANTC,CAST,Antioch,Castro Valley
+49,24,ANTC,DUBL,Antioch,Dublin/Pleasanton
+49,25,ANTC,PITT,Antioch,Pittsburg/Bay Point
+49,26,ANTC,NCON,Antioch,North Concord/Martinez
+49,27,ANTC,COLM,Antioch,Colma
+49,28,ANTC,CONC,Antioch,Concord
+49,29,ANTC,PHIL,Antioch,Pleasant Hill
+49,30,ANTC,WCRK,Antioch,Walnut Creek
+49,31,ANTC,LAFY,Antioch,Lafayette
+49,32,ANTC,ORIN,Antioch,Orinda
+49,33,ANTC,ROCK,Antioch,Rockridge
+49,34,ANTC,WOAK,Antioch,West Oakland
+49,35,ANTC,EMBR,Antioch,Embarcadero
+49,36,ANTC,MONT,Antioch,Montgomery Street
+49,37,ANTC,POWL,Antioch,Powell Street
+49,38,ANTC,CIVC,Antioch,Civic Center
+49,39,ANTC,16TH,Antioch,16th Street Mission
+49,40,ANTC,24TH,Antioch,24th Street Mission
+49,41,ANTC,GLEN,Antioch,Glen Park
+49,42,ANTC,BALB,Antioch,Balboa Park
+49,43,ANTC,DALY,Antioch,Daly City
+49,44,ANTC,OAKL,Antioch,Oakland City Center/12th St
+49,45,ANTC,WARM,Antioch,Warm Springs/South Fremont
+49,46,ANTC,MLPT,Antioch,Milpitas
+49,47,ANTC,BERY,Antioch,Berryessa/North San Jose
+49,48,ANTC,PCTR,Antioch,Pittsburg Center
+49,49,ANTC,ANTC,Antioch,Antioch

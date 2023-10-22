@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Bart</title>
+        <link href="/static/css/app.css" rel="stylesheet">
+        <style>
+            .bd-placeholder-img {
+              font-size: 1.125rem;
+              text-anchor: middle;
+              -webkit-user-select: none;
+              -moz-user-select: none;
+              user-select: none;
+            }
+      
+            @media (min-width: 768px) {
+              .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+              }
+            }
+          </style>
+    </head>
+    <body class="text-center">
+        <h1 class="h3 mb-3 fw-normal" style="margin-left: 10px; font-size: 24px;">Bay Area Rapid Transit</h1>
+  
+    <h2>Route Information</h2>
+    <p><b>Source: {{ origin_name }}</p>
+    <p>Destination: {{ destination_name }}</b></p>
+    <div class="estimate-container">
+        <div class="time-estimate">
+            <div class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+            <div class="content">
+            <h3>Travel Time</h3>
+            <p>Estimated time from source to destination: {{ total_time }} minutes</p>
+        </div>
+        </div>
+        <div class="price-estimate">
+            <div class="content">
+            <h3>Fares</h3>
+            <p>Clipper fare: ${{ clipper }}</p>
+            <p>Clipper Start fare: ${{ clipper_start }}</p>
+            <p>Senior/Disabled Clipper fare: ${{ senior_disabled_clipper }}</p>
+            <p>Youth Clipper fare: ${{ youth_clipper }}</p>
+          
+            </div>
+        </div>
+    </div>
+
+    
+  </body>
+</html>
+
+
+
+

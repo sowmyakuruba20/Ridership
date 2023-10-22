@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <title>Bart</title>
+      <link href="/static/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+      <link href="/static/css/signin.css" rel="stylesheet">
+   </head>
+   <body class="text-center">
+      <main class="form-signin">
+         <form action="/calculate-ridership" method="POST">
+         <h1 class="h3 mb-3 fw-normal" style="margin-left: 10px; font-size: 24px;">Bay Area Rapid Transit</h1>
+         <div class="form-floating" style="display: inline-block; width: 48%;">
+            <select name="hour" class="form-select" id="daySelect" aria-label="Select Hour">
+               <option selected>Select Hour</option>
+               <option value="0">12 AM</option>
+               <option value="1">1 AM</option>
+               <option value="2">2 AM</option>
+               <option value="3">3 AM</option>
+               <option value="4">4 AM</option>
+               <option value="5">5 AM</option>
+               <option value="6">6 AM</option>
+               <option value="7">7 AM</option>
+               <option value="8">8 AM</option>
+               <option value="9">9 AM</option>
+               <option value="10">10 AM</option>
+               <option value="11">11 AM</option>
+               <option value="12">12 PM</option>
+               <option value="13">13 PM</option>
+               <option value="14">14 PM</option>
+               <option value="15">15 PM</option>
+               <option value="16">16 PM</option>
+               <option value="17">17 PM</option>
+               <option value="18">18 PM</option>
+               <option value="19">19 PM</option>
+               <option value="20">20 PM</option>
+               <option value="21">21 PM</option>
+               <option value="22">22 PM</option>
+               <option value="23">23 PM</option>
+            </select>
+            <label for="daySelect">Hour</label>
+         </div>
+  
+         <div class="form-floating" style="display: inline-block; width: 48%;">
+            <select name="day" class="form-select" id="daySelect" aria-label="Select Day">
+               <option selected>Select Day</option>
+               <option value="1">1</option>
+               <option value="2">2</option>
+               <option value="3">3</option>
+               <option value="4">4</option>
+               <option value="5">5</option>
+               <option value="6">6</option>
+               <option value="7">7</option>
+               <option value="8">8</option>
+               <option value="9">9</option>
+               <option value="10">10</option>
+               <option value="11">11</option>
+               <option value="12">12</option>
+               <option value="13">13</option>
+               <option value="14">14</option>
+               <option value="15">15</option>
+               <option value="16">16</option>
+               <option value="17">17</option>
+               <option value="18">18</option>
+               <option value="19">19</option>
+               <option value="20">20</option>
+               <option value="21">21</option>
+               <option value="22">11</option>
+               <option value="23">23</option>
+            </select>
+            <label for="daySelect">Day</label>
+         </div>
+
+         <div class="form-floating" style="display: inline-block; width: 48%;">
+            <select name="week" class="form-select" id="daySelect" aria-label="Select Week">
+               <option selected>Select Week</option>
+               <option value="0">Sunday</option>
+               <option value="1">Monday</option>
+               <option value="2">Tuesday</option>
+               <option value="3">Wednesday</option>
+               <option value="4">Thursday</option>
+               <option value="5">Friday</option>
+               <option value="6">Saturday</option>
+            </select>
+            <label for="daySelect">Week</label>
+         </div>
+
+         <div class="form-floating" style="display: inline-block; width: 48%;">
+            <select name="month" class="form-select" id="daySelect" aria-label="Select Month">
+               <option selected>Select Month</option>
+               <option value="1">January</option>
+               <option value="2">Febuary</option>
+               <option value="3">March</option>
+               <option value="4">April</option>
+               <option value="5">May</option>
+               <option value="6">June</option>
+               <option value="7">July</option>
+               <option value="8">August</option>
+               <option value="9">September</option>
+               <option value="10">October</option>
+               <option value="11">November</option>
+               <option value="12">December</option>
+            </select>
+            <label for="daySelect">Month</label>
+         </div>
+
+         <button class="w-100 btn btn-lg btn-custom" type="submit">Calculate Rideship</button>
+        </form>
+
+        <form action="/station-ridership" method="POST">
+         <div class="form-floating">
+            <select name="source" class="form-select" id="floatingSelect" aria-label="Select source">
+               <option selected>Select source</option>
+               <option value="0">South San Francisco</option>
+               <option value="1">San Bruno</option>
+               <option value="2">San Francisco International Airport</option>
+               <option value="3">Millbrae</option>
+               <option value="4">West Dublin/Pleasanton</option>
+               <option value="5">Richmond</option>
+               <option value="6">Del Norte</option>
+               <option value="7">El Cerrito Plaza</option>
+               <option value="8">North Berkeley</option>
+               <option value="9">Downtown Berkeley</option>
+               <option value="10">Ashby</option>
+               <option value="11">MacArthur</option>
+               <option value="12">19th Street Oakland</option>
+               <option value="13">12th Street Oakland</option>
+               <option value="14">Lake Merritt</option>
+               <option value="15">Fruitvale</option>
+               <option value="16">Coliseum</option>
+               <option value="17">San Leandro</option>
+               <option value="18">Bay Fair</option>
+               <option value="19">Hayward</option>
+               <option value="20">South Hayward</option>
+               <option value="21">Union City</option>
+               <option value="22">Fremont</option>
+               <option value="23">Castro Valley</option>
+               <option value="24">Dublin/Pleasanton</option>
+               <option value="25">Pittsburg/Bay Point</option>
+               <option value="26">North Concord/Martinez</option>
+               <option value="27">Colma</option>
+               <option value="28">Concord</option>
+               <option value="29">Pleasant Hill</option>
+               <option value="30">Walnut Creek</option>
+               <option value="31">Lafayette</option>
+               <option value="32">Orinda</option>
+               <option value="33">Rockridge</option>
+               <option value="34">West Oakland</option>
+               <option value="35">Embarcadero</option>
+               <option value="36">Montgomery Street</option>
+               <option value="37">Powell Street</option>
+               <option value="38">Civic Center</option>
+               <option value="39">16th Street Mission</option>
+               <option value="40">24th Street Mission</option>
+               <option value="41">Glen Park</option>
+               <option value="42">Balboa Park</option>
+               <option value="43">Daly City</option>
+               <option value="44">Oakland City Center/12th St</option>
+               <option value="45">Warm Springs/South Fremont</option>
+               <option value="46">Milpitas</option>
+               <option value="47">Berryessa/North San Jose</option>
+               <option value="48">Pittsburg Center</option>
+               <option value="49">Antioch</option>
+            </select>
+            <label for="floatingSelect">Source</label>
+         </div>
+         <div class="form-floating">
+            <select name="destination" class="form-select" id="floatingSelect" aria-label="Select destination">
+               <option selected>Select Destination</option>
+               <option value="0">South San Francisco</option>
+               <option value="1">San Bruno</option>
+               <option value="2">San Francisco International Airport</option>
+               <option value="3">Millbrae</option>
+               <option value="4">West Dublin/Pleasanton</option>
+               <option value="5">Richmond</option>
+               <option value="6">Del Norte</option>
+               <option value="7">El Cerrito Plaza</option>
+               <option value="8">North Berkeley</option>
+               <option value="9">Downtown Berkeley</option>
+               <option value="10">Ashby</option>
+               <option value="11">MacArthur</option>
+               <option value="12">19th Street Oakland</option>
+               <option value="13">12th Street Oakland</option>
+               <option value="14">Lake Merritt</option>
+               <option value="15">Fruitvale</option>
+               <option value="16">Coliseum</option>
+               <option value="17">San Leandro</option>
+               <option value="18">Bay Fair</option>
+               <option value="19">Hayward</option>
+               <option value="20">South Hayward</option>
+               <option value="21">Union City</option>
+               <option value="22">Fremont</option>
+               <option value="23">Castro Valley</option>
+               <option value="24">Dublin/Pleasanton</option>
+               <option value="25">Pittsburg/Bay Point</option>
+               <option value="26">North Concord/Martinez</option>
+               <option value="27">Colma</option>
+               <option value="28">Concord</option>
+               <option value="29">Pleasant Hill</option>
+               <option value="30">Walnut Creek</option>
+               <option value="31">Lafayette</option>
+               <option value="32">Orinda</option>
+               <option value="33">Rockridge</option>
+               <option value="34">West Oakland</option>
+               <option value="35">Embarcadero</option>
+               <option value="36">Montgomery Street</option>
+               <option value="37">Powell Street</option>
+               <option value="38">Civic Center</option>
+               <option value="39">16th Street Mission</option>
+               <option value="40">24th Street Mission</option>
+               <option value="41">Glen Park</option>
+               <option value="42">Balboa Park</option>
+               <option value="43">Daly City</option>
+               <option value="44">Oakland City Center/12th St</option>
+               <option value="45">Warm Springs/South Fremont</option>
+               <option value="46">Milpitas</option>
+               <option value="47">Berryessa/North San Jose</option>
+               <option value="48">Pittsburg Center</option>
+               <option value="49">Antioch</option>
+            </select>
+            <label for="floatingSelect">Destination</label>
+         </div>
+         <button class="w-100 btn btn-lg btn-custom" type="submit">Predict Rideship</button>
+         </form>
+
+         <style>
+            /* add space between the two divs */
+            .form-floating {
+            margin-bottom: 30px;
+            }
+            .destination {
+            margin-bottom: 20px;
+            }
+            .form-floating:last-child {
+            margin-bottom: 20px;
+            }
+            button {
+            margin-bottom: 20px;
+            }
+            .btn-custom {
+            background-color: #009ddc;
+            color: white; /* sets the text color to white */
+            }
+         </style>
+      </main>
+   </body>
+</html>

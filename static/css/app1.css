@@ -1,0 +1,67 @@
+
+body {
+    margin: 0;
+    padding:0;
+    align-items: center;
+    font-family: sans serif; 
+    overflow: hidden;
+}
+.text-center {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+.estimate-container {
+    position: relative;
+    width: 1100px;
+    height: 270px;
+    margin: 20px auto;
+    background:#fff;
+
+
+  }
+  
+  .price-estimate {
+    position: relative;
+    width: 590px;
+    height: 250px;
+    margin: 10px;
+    float: right;
+    background:#009ddc;
+    box-sizing: border-box;
+    border-radius: 10px;
+    align-items: left;
+  }
+  
+  .time-estimate {
+    position: relative;
+    width: 450px;
+    height: 250px;
+    margin: 10px;
+    float: left;
+    background:#009ddc;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+
+  .estimate-container .time-estimate .content {
+    text-align:center;
+    padding: 20px;
+    box-sizing: border-box;
+    color: #fff;
+
+  }
+
+  .estimate-container .price-estimate .content {
+    text-align:left;
+    padding: 20px;
+    box-sizing: border-box;
+    color: #fff;
+
+  }
+
+
+
+
+  
