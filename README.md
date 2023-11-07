@@ -14,13 +14,13 @@ Fare Estimation: Compute the fare cost for traveling between two stations within
 By addressing these objectives, this project aims to transform the BART Transit System into a more efficient, data-driven, and rider-centric network. The integration of Neo4j, machine learning, and real-time data updates will empower decision-makers and riders with the insights needed for informed choices, leading to improved resource allocation, operational efficiency, and a better overall BART experience.
 
 --------------------------------------------------------------------
-
 To run this project 
-downlod the input files
-download neo4j desktop application and ceate a new database
-run bart.ipynb by replacing neo4j server auth details
-run app.py by replacing neo4j server auth details
-The flask application will be hosted in http://localhost:5000
+1. Downlod the input files
+2. Download neo4j desktop application and ceate a new database
+3. run bart.ipynb by replacing neo4j server auth details in jupyter notebook
+4. run app.py by replacing neo4j server auth details - "python app.py"
+5. The flask application will be hosted in http://localhost:5000
+6. Select the Bart Ridership Button and selct the time period for which you want to see ridership estimation
 
 ---------------------------------------------------------------------
 
