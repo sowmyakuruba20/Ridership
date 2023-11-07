@@ -13,6 +13,17 @@ Travel Time Calculation: Calculate and provide the most efficient travel time be
 Fare Estimation: Compute the fare cost for traveling between two stations within the BART system. Accurate fare estimation supports both travelers and BART authorities by ensuring transparency and helping passengers make budget-conscious decisions.
 By addressing these objectives, this project aims to transform the BART Transit System into a more efficient, data-driven, and rider-centric network. The integration of Neo4j, machine learning, and real-time data updates will empower decision-makers and riders with the insights needed for informed choices, leading to improved resource allocation, operational efficiency, and a better overall BART experience.
 
+--------------------------------------------------------------------
+
+To run this project 
+downlod the input files
+download neo4j desktop application and ceate a new database
+run bart.ipynb by replacing neo4j server auth details
+run app.py by replacing neo4j server auth details
+The flask application will be hosted in http://localhost:5000
+
+---------------------------------------------------------------------
+
 Methodology
 
 1. Data Collection and Understanding: The primary dataset for this project is sourced from the official Bay Area Rapid Transit (BART) website, accessible at https://www.bart.gov/. This dataset encompasses critical information related to the BART transit system, including ridership fare data, ridership reports, and detailed travel time records between stations.
