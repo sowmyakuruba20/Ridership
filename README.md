@@ -1,6 +1,6 @@
 # Enhancing Decision-Making and Rider Experience in the BART Transit System through Predictive Analytics and Graph Databases
 
-[![NODES2023: Improving Bay Area Rapid Transit]()](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
+[![NODES2023: Improving Bay Area Rapid Transit](https://ytcards.demolab.com/?id=8ZmOzmQ_xq8&title=NODES2023%3A+Improving+Bay+Area+Rapid+Transit&lang=en&timestamp=1713139200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=00 "NODES2023: Improving Bay Area Rapid Transit")](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
 
 ## Project Objective
 This project aims to optimize the Bay Area Rapid Transit (BART) system by leveraging Neo4j, a graph database, and machine learning to enhance rider experience and address key operational challenges.
