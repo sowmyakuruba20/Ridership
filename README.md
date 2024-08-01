@@ -1,20 +1,17 @@
-# Ridership
+# Project Title: Enhancing Decision-Making and Rider Experience in the BART Transit System through Predictive Analytics and Graph Databases
 
-NODES 2023
+## Project Objective:
+The primary objective of this project is to leverage the power of Neo4j, a graph database, and machine learning to optimize the Bay Area Rapid Transit (BART) system by addressing key challenges and enhancing the rider experience. 
 
-Project Title: Enhancing Decision-Making and Rider Experience in the BART Transit System through Predictive Analytics and Graph Databases
 
-Project Objective:
-The primary objective of this project is to leverage the power of Neo4j, a graph database, and machine learning to optimize the Bay Area Rapid Transit (BART) system by addressing key challenges and enhancing the rider experience. The project encompasses the following key aspects:
-
-Ridership Prediction: Develop an accurate machine learning model to predict the ridership between any two BART stations. This prediction will enable BART authorities to proactively allocate resources, plan schedules, and optimize services to accommodate fluctuating demand effectively.
-Network-Wide Ridership Estimation: Utilize the predictive models to estimate the ridership between any two stations within the entire BART network. This capability will facilitate informed decision-making regarding station-specific resource allocation, crowd management, and infrastructure improvements.
-Travel Time Calculation: Calculate and provide the most efficient travel time between any two BART stations. This information will enable commuters and passengers to plan their journeys more effectively, promoting customer satisfaction and a seamless travel experience.
-Fare Estimation: Compute the fare cost for traveling between two stations within the BART system. Accurate fare estimation supports both travelers and BART authorities by ensuring transparency and helping passengers make budget-conscious decisions.
-By addressing these objectives, this project aims to transform the BART Transit System into a more efficient, data-driven, and rider-centric network. The integration of Neo4j, machine learning, and real-time data updates will empower decision-makers and riders with the insights needed for informed choices, leading to improved resource allocation, operational efficiency, and a better overall BART experience.
+## The project encompasses the following key aspects:
+- Ridership Prediction: Develop an accurate machine learning model to predict the ridership between any two BART stations. This prediction will enable BART authorities to proactively allocate resources, plan schedules, and optimize services to accommodate fluctuating demand effectively.
+- Network-Wide Ridership Estimation: Utilize the predictive models to estimate the ridership between any two stations within the entire BART network. This capability will facilitate informed decision-making regarding station-specific resource allocation, crowd management, and infrastructure improvements.
+- Travel Time Calculation: Calculate and provide the most efficient travel time between any two BART stations. This information will enable commuters and passengers to plan their journeys more effectively, promoting customer satisfaction and a seamless travel experience.
+- Fare Estimation: Compute the fare cost for traveling between two stations within the BART system. Accurate fare estimation supports both travelers and BART authorities by ensuring transparency and helping passengers make budget-conscious decisions.
 
 --------------------------------------------------------------------
-To run this project 
+## To run this project 
 1. Downlod the input files
 2. Download neo4j desktop application and ceate a new database
 3. run bart.ipynb by replacing neo4j server auth details in jupyter notebook
@@ -24,7 +21,7 @@ To run this project
 
 ---------------------------------------------------------------------
 
-Methodology
+## Methodology
 
 1. Data Collection and Understanding: The primary dataset for this project is sourced from the official Bay Area Rapid Transit (BART) website, accessible at https://www.bart.gov/. This dataset encompasses critical information related to the BART transit system, including ridership fare data, ridership reports, and detailed travel time records between stations.
 
@@ -33,46 +30,24 @@ Is done using Python and its library pandas.
 The fare data was initially stored in well-structured tables. To prepare this data for integration into Neo4j and the subsequent graph creation, it was necessary to perform table merging and data transformation operations. This process ensured that the data was appropriately formatted and compatible with Neo4j's graph database structure.The Time related data between connecting stations was scraped using Google APIs. The ridership data in the form of the report we did data cleansing using pandas so that the data could be fed into the ML model. This transformation was done within the model development phase.
 
 3. Creating Graph database:
-
-Graph Model: 
+- Graph Model: 
 Nodes -  station: station_id, station_name
 Relationships
 time: travel_time
 fare: clipper_fare, clipper_start_fare, senior_fare, youth_fare
 ridership: ridership_count
 
-Station: Each station in the BART transit system is represented as a node in the Neo4j graph model. This node type encapsulates various attributes and information related to each station.
+- Station: Each station in the BART transit system is represented as a node in the Neo4j graph model. This node type encapsulates various attributes and information related to each station.
 
-Time: The "Time" relationship, represented as an edge between two stations, signifies the time taken to travel between those two specific stations. These time relationships exist only between directly connected stations. The network of time relationships, when visualized, closely resembles the structure of the BART transit map. This connectivity enables the approximate prediction of travel time between any two stations by traversing the path and summing up the individual time values. Additionally, this network structure facilitates pathfinding between stations, which can be valuable for various analytical purposes, including centrality analysis and route planning.
+- Time: The "Time" relationship, represented as an edge between two stations, signifies the time taken to travel between those two specific stations. These time relationships exist only between directly connected stations. The network of time relationships, when visualized, closely resembles the structure of the BART transit map. This connectivity enables the approximate prediction of travel time between any two stations by traversing the path and summing up the individual time values. Additionally, this network structure facilitates pathfinding between stations, which can be valuable for various analytical purposes, including centrality analysis and route planning.
 
-Fare: The "Fare" relationship signifies the fare associated with traveling from one station to any other station in the network. Unlike the collective fare for a sequence of connected stations, the fare relationship accounts for the specific fare associated with each individual station-to-station journey. This allows for precise fare calculations and analysis for any station pair in the BART system.
+- Fare: The "Fare" relationship signifies the fare associated with traveling from one station to any other station in the network. Unlike the collective fare for a sequence of connected stations, the fare relationship accounts for the specific fare associated with each individual station-to-station journey. This allows for precise fare calculations and analysis for any station pair in the BART system.
 
-Ridership: The "Ridership" relationship exists between stations and encompasses the "ridership_count" attribute. This attribute is populated using the predictions from the ML model (bart_xgb_model). The model calculates and predicts the ridership count for each station based on a set of features, including hour, day, week, and month. The "Ridership" relationship thus quantifies the ridership interactions between stations, providing insights into passenger flows and trends within the BART transit system.
-
-Creating Graph database Neo4j using py2neo
-
-The Neo4j graph, based on the provided model, was constructed in the neo4j database environment through Jupyter notebook using  Python in conjunction with the Py2neo package, a powerful tool that facilitates connections to Neo4j database servers, as well as the creation and manipulation of the graph structure within Neo4j.
-
-First, we established the fundamental building blocks by generating nodes to represent each BART transit station, and we interlinked these nodes using 'fare' edges. These fare edges defined the pricing relationships between one station to every other station, forming a foundational element of our graph.
-
-Following this, we enhanced the graph by introducing 'time' edges. These time edges were selectively applied to nodes corresponding to stations strategically positioned along the BART map path. They symbolized the travel time between these interconnected stations. 
-
-Source: https://www.bart.gov/system-map
-
-As we can see on the BART transit map, MacArthur serves as a critical junction connecting three stations: Ashby, Rockridge, and 19th St/Oakland. The Neo4j graph below illustrates this connectivity. In the graph, station_id 11 corresponds to MacArthur, which serves as a central hub connecting stations 12, 10, and 33, representing 19th St/Oakland, Ashby, and Rockridge, respectively. While there is a fare edge connecting each station to every other station, including itself, the time edge specifically follows the layout of the BART map.
-
-The image below visually depicts all the BART station nodes interconnected with both fare (green edges) and time (red edges) relationships. This representation provides a clear visualization of how these stations are linked in the Neo4j graph, highlighting the connections based on both travel time and fare information.
-
-Leveraging the Neo4j Data Science Playground for Station Centrality Analysis
-
-In our project, we harnessed the power of Neo4j's Data Science Playground to gain valuable insights into station centrality within the BART transit system. By employing the Centralities algorithm, specifically the Betweenness algorithm, we sought to determine the most central station within the network. In the context of the BART transit system, it helps pinpoint stations that play a critical role in facilitating passenger flows and efficient transfers.
-
-
-As you can see MacArthur is the critical junction that has the highest centrality score when compared to other stations
+- Ridership: The "Ridership" relationship exists between stations and encompasses the "ridership_count" attribute. This attribute is populated using the predictions from the ML model (bart_xgb_model). The model calculates and predicts the ridership count for each station based on a set of features, including hour, day, week, and month. The "Ridership" relationship thus quantifies the ridership interactions between stations, providing insights into passenger flows and trends within the BART transit system.
 
 4. Model development
 Create an ML Model for Ridership Prediction
-Data Preprocessing: The first step in model development is to preprocess the dataset obtained from BART, making it compatible with the XGBoost model. This includes cleaning and organizing the data, as well as feature engineering to extract relevant information. We only use Source, Destination, Hour, Day, Week, and Month columns as features.
+- Data Preprocessing: The first step in model development is to preprocess the dataset obtained from BART, making it compatible with the XGBoost model. This includes cleaning and organizing the data, as well as feature engineering to extract relevant information. We only use Source, Destination, Hour, Day, Week, and Month columns as features.
  The data is split into training, validation, and test sets in the ratio of (80:10:10) to facilitate model evaluation. 
 The XGBoost model is trained on the prepared dataset. During training, the model learns to make predictions by optimizing a loss function, aiming to minimize the difference between predicted and actual ridership counts. The model is trained with a specified learning rate = 0.01 , and the number of training rounds = 60  is determined to achieve optimal performance.
 Learning rate: 0.01
